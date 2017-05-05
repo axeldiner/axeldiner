@@ -1,21 +1,3 @@
-## A propos
-
-Enfant, j'avais prévu de devenir un super héros, mais faute de supers pouvoirs ou d'héritage à la Wayne, aujourd'hui je fais du droit, pour protéger les intérêts des gentils!
-Étant un peu geek sur les bords, j'ai décidé de faire du droit des nouvelles technologies, et aujourd'hui, je suis à la recherche de la prochaine entreprise qui m'acceptera dans ses rangs en tant que juriste!
-
-
-## Informations
-
-Axel Diner
-
-8 Domaine des oliviers
-
-13015 MARSEILLE
-
-+33752628225
-
-<axel.diner@gmail.com>
-
 <a id="Education"></a>
 ## Education 
 
@@ -66,6 +48,7 @@ Stage opérationnel au sein du cabinet d'avocat VIDAPARM sous la direction de Me
 ### Financo
 #### _Emploi Étudiant • Juillet 2012 - Août 2012_
 Emploi étudiant au sein du pôle recouvrement/contentieux du siège social de la société de crédit Financo : mission de contrôle des dossiers de surrendettement, prise de contact avec les clients, recherche de solutions et éventuellement création d'un dossier, avant ouverture d'une procédure, en partenariat avec le pôle juridique et les avocats partenaires.
+
 <a id="Compétences"></a>
 ## Compétences 
 - Propriété Intellectuelle et NTIC
@@ -86,3 +69,18 @@ Emploi étudiant au sein du pôle recouvrement/contentieux du siège social de l
 - Droit patrimonial
 - Contrats d’affaires dans l’univers digital (B2B)
 - Droit des entreprises en difficulté
+
+<a id="Certification"></a>
+## Certification
+- Master 2 : Propriété Intellectuelle et Droit des affaires Numériques
+- Master 1 : Droit Privé et Sciences Criminelles
+- Licence : Droit
+- TOEIC (session février 2013 : 945/990pts)
+- Diplôme C2i (niveau B2)
+- Permis de conduire B
+
+<a id="Langues"></a>
+## Langues
+- Français - Niveau C2 (Langue maternelle)
+- Anglais - Niveau C1 (TOEIC 2013)
+- Espagnol - Niveau B2
