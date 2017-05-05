@@ -71,7 +71,9 @@ Cours et examens en Anglais.
 - Droit patrimonial
 - Contrats d’affaires dans l’univers digital (B2B)
 - Droit des entreprises en difficulté
+
 -----------------------------------------------
+
 <a id="Certification"></a>
 ## Certification
 - Master 2 : Propriété Intellectuelle et Droit des affaires Numériques
@@ -80,7 +82,9 @@ Cours et examens en Anglais.
 - TOEIC (session février 2013 : 945/990pts)
 - Diplôme C2i (niveau B2)
 - Permis de conduire B
+
 ---------------------------------------------------
+
 <a id="Langues"></a>
 ## Langues
 - Français - Niveau C2 (Langue maternelle)
