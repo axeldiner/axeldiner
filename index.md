@@ -1,30 +1,3 @@
-<a id="Education"></a>
-
-[link text](#Emploi)
-
-## Education 
-
-### Université de Versailles Saint Quentin en Yvelines
-#### _Institut d'Etudes Judiciaires • 2016-2017_
-Préparation au concours du barreau.
-
-### Université de Versailles Saint Quentin en Yvelines
-#### _Master 2 Propriété Intellectuelle et Droit des Affaires Numériques • 2015-2016_
-Le master 2 Propriété Intellectuelle et Droit des Affaires Numériques s'inscrit dans l'offre des masters de Saclay en Propriété Intellectuelle, Droit du Numérique, Droit International et Droit européen. Sa spécificité tient à une approche généraliste et transversale du droit confronté aux défis de la dématérialisation et du numérique.
-Rédaction d'un mémoire [Les plateformes de streaming, qualification et régime de responsabilité applicables](file:///home/axel/Dropbox/Public/streaming.pdf) sous la direction de Maitre Ronan Hardouin.
-
-### Aix-Marseille Université
-#### _Master 1 Droit Privé et Sciences Criminelles • 2014-2015_
-Étude des matières fondamentales de droit privé et de sciences criminelles telles que le droit patrimonial, le droit international privé, le droit pénal spécial, le droit pénal des affaires, mais aussi des matières plus spécifiques telles que le droit des instruments de paiement ou le droit de la consommation. 
-Rédaction d'un rapport de recherche [Les contrats électroniques et les règles de conflits de loi](file:///home/axel/Dropbox/Public/Rapport.pdf) sous la direction du Professeur Barrière-Brousse.
-
-### Sheffield University : School of Law
-#### _Licence 3 - Erasmus • 2013-2014_
-Troisème année de Licence de Droit effectuée au sein de l'Université de Sheffield (Royaume-Uni) dans le cadre du programme Erasmus.
-Étude des matières fondamentales du droit de common law et de droit international. 
-Cours et examens en Anglais.
-
-
  <a id="Emploi"></a>
 ## Emploi
 ### Fidal
@@ -52,6 +25,32 @@ Stage opérationnel au sein du cabinet d'avocat VIDAPARM sous la direction de Me
 #### _Emploi Étudiant • Juillet 2012 - Août 2012_
 Emploi étudiant au sein du pôle recouvrement/contentieux du siège social de la société de crédit Financo : mission de contrôle des dossiers de surrendettement, prise de contact avec les clients, recherche de solutions et éventuellement création d'un dossier, avant ouverture d'une procédure, en partenariat avec le pôle juridique et les avocats partenaires.
 
+----------------------------
+<a id="Formation"></a>
+## Formation 
+
+### Université de Versailles Saint Quentin en Yvelines
+#### _Institut d'Etudes Judiciaires • 2016-2017_
+Préparation au concours du barreau.
+
+### Université de Versailles Saint Quentin en Yvelines
+#### _Master 2 Propriété Intellectuelle et Droit des Affaires Numériques • 2015-2016_
+Le master 2 Propriété Intellectuelle et Droit des Affaires Numériques s'inscrit dans l'offre des masters de Saclay en Propriété Intellectuelle, Droit du Numérique, Droit International et Droit européen. Sa spécificité tient à une approche généraliste et transversale du droit confronté aux défis de la dématérialisation et du numérique.
+Rédaction d'un mémoire [Les plateformes de streaming, qualification et régime de responsabilité applicables](file:///home/axel/Dropbox/Public/streaming.pdf) sous la direction de Maitre Ronan Hardouin.
+
+### Aix-Marseille Université
+#### _Master 1 Droit Privé et Sciences Criminelles • 2014-2015_
+Étude des matières fondamentales de droit privé et de sciences criminelles telles que le droit patrimonial, le droit international privé, le droit pénal spécial, le droit pénal des affaires, mais aussi des matières plus spécifiques telles que le droit des instruments de paiement ou le droit de la consommation. 
+Rédaction d'un rapport de recherche [Les contrats électroniques et les règles de conflits de loi](file:///home/axel/Dropbox/Public/Rapport.pdf) sous la direction du Professeur Barrière-Brousse.
+
+### Sheffield University : School of Law
+#### _Licence 3 - Erasmus • 2013-2014_
+Troisème année de Licence de Droit effectuée au sein de l'Université de Sheffield (Royaume-Uni) dans le cadre du programme Erasmus.
+Étude des matières fondamentales du droit de common law et de droit international. 
+Cours et examens en Anglais.
+
+-----------------------------------
+
 <a id="Compétences"></a>
 ## Compétences 
 - Propriété Intellectuelle et NTIC
@@ -72,7 +71,7 @@ Emploi étudiant au sein du pôle recouvrement/contentieux du siège social de l
 - Droit patrimonial
 - Contrats d’affaires dans l’univers digital (B2B)
 - Droit des entreprises en difficulté
-
+-----------------------------------------------
 <a id="Certification"></a>
 ## Certification
 - Master 2 : Propriété Intellectuelle et Droit des affaires Numériques
@@ -81,7 +80,7 @@ Emploi étudiant au sein du pôle recouvrement/contentieux du siège social de l
 - TOEIC (session février 2013 : 945/990pts)
 - Diplôme C2i (niveau B2)
 - Permis de conduire B
-
+---------------------------------------------------
 <a id="Langues"></a>
 ## Langues
 - Français - Niveau C2 (Langue maternelle)
