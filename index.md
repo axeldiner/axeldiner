@@ -1,8 +1,3 @@
-
-## Bienvenue
-[Education](#Education) 
-[Emploi](#Emploi) 
-[Compétences](#Compétences) 
 ## A propos
 
 Enfant, j'avais prévu de devenir un super héros, mais faute de supers pouvoirs ou d'héritage à la Wayne, aujourd'hui je fais du droit, pour protéger les intérêts des gentils!
@@ -11,11 +6,16 @@ Enfant, j'avais prévu de devenir un super héros, mais faute de supers pouvoirs
 
 ## Informations
 
-    Axel Diner
-    8 Domaine des oliviers
-    13015 MARSEILLE
-    +33752628225
-  <axel.diner@gmail.com>
+Axel Diner
+
+8 Domaine des oliviers
+
+13015 MARSEILLE
+
++33752628225
+
+<axel.diner@gmail.com>
+
 <a id="Education"></a>
 ## Education 
 
