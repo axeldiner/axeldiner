@@ -7,6 +7,24 @@
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <meta name="viewport" content="width=device-width">
+    <style>
+        body {
+            background-color: rgb(0,0,0);
+        }
+        h1 {
+            color: #02B875;
+        }
+        p {
+            color: white;
+        }
+        a:hover {
+            color: white;
+        }
+        a {
+            color: #02B875;
+        }
+    </style>
+
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -21,10 +39,10 @@
 
         <h3>
           <a href="/CV.pdf">Télécharger le CV au format PDF</a><br><br>
-          <a href="#Emploi">Emploi</a><br>
+          <a href="#Emploi">Emplois</a><br>
           <a href="#Formation">Formation</a><br>
           <a href="#Compétences">Compétences</a><br>
-          <a href="#Certifications">Certification</a><br>
+          <a href="#Certifications">Certifications</a><br>
           <a href="#Langues">Langues</a><br></h3>
 
       </header>
@@ -34,6 +52,7 @@
 
       </section>
       <footer>
+        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
       </footer>
     </div>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
