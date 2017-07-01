@@ -75,7 +75,7 @@ Cours et examens en Anglais.
 -----------------------------------------------
 
 <a id="Certification"></a>
-## Certification
+## Certifications
 - Master 2 : Propriété Intellectuelle et Droit des affaires Numériques
 - Master 1 : Droit Privé et Sciences Criminelles
 - Licence : Droit
