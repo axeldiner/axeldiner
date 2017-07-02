@@ -36,12 +36,12 @@ Préparation au concours du barreau.
 ### Université de Versailles Saint Quentin en Yvelines
 #### _Master 2 Propriété Intellectuelle et Droit des Affaires Numériques • 2015-2016_
 Le master 2 Propriété Intellectuelle et Droit des Affaires Numériques s'inscrit dans l'offre des masters de Saclay en Propriété Intellectuelle, Droit du Numérique, Droit International et Droit européen. Sa spécificité tient à une approche généraliste et transversale du droit confronté aux défis de la dématérialisation et du numérique.
-Rédaction d'un mémoire [Les plateformes de streaming, qualification et régime de responsabilité applicables](https://www.dropbox.com/s/q7tpnvh0slr4svp/M%C3%A9moire%20M2.pdf?dl=0) sous la direction de Maitre Ronan Hardouin.
+Rédaction d'un mémoire [Les plateformes de streaming, qualification et régime de responsabilité applicables](https://axeldiner.github.io/axeldiner/Mémoire M2.pdf) sous la direction de Maitre Ronan Hardouin.
 
 ### Aix-Marseille Université
 #### _Master 1 Droit Privé et Sciences Criminelles • 2014-2015_
 Étude des matières fondamentales de droit privé et de sciences criminelles telles que le droit patrimonial, le droit international privé, le droit pénal spécial, le droit pénal des affaires, mais aussi des matières plus spécifiques telles que le droit des instruments de paiement ou le droit de la consommation. 
-Rédaction d'un rapport de recherche [Les contrats électroniques et les règles de conflits de loi](https://www.dropbox.com/s/tnkdhed0ob65lj9/Rapport.pdf?dl=0) sous la direction du Professeur Barrière-Brousse.
+Rédaction d'un rapport de recherche [Les contrats électroniques et les règles de conflits de loi](https://axeldiner.github.io/axeldiner/Rapport.pdf) sous la direction du Professeur Barrière-Brousse.
 
 ### Sheffield University : School of Law
 #### _Licence 3 - Erasmus • 2013-2014_
