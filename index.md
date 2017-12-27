@@ -1,7 +1,7 @@
  <a id="Emploi"></a>
 ## Emplois
 ### Société Générale Bank & Trust Luxembourg
-#### _VIE Officer suivi des contrats et comité de surveillance • Janvier 2018 -
+#### _VIE Officer suivi des contrats et comité de surveillance • Janvier 2018 -_
 Mise en place et suivi des contrats avec les différents clients de la Société Générale. Suivi des comités de surveillance de la société.
 
 ### Fidal
