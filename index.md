@@ -5,6 +5,8 @@
 #### _VIE Officer suivi des contrats et comité de surveillance • Depuis Janvier 2018_
 Mise en place et suivi des contrats avec les différents clients de la Société Générale. Suivi des comités de surveillance de la société.
 
+Gestion et mise-à-jour du socle normatif des différents services de la Société Générale : mise en place de réunions de sensibilisation avec les chefs de service, analyse des différents documents normatifs de la Société Générale, gestion et support de l'outil interne de stockage, planning des différentes phases de mise-à-jour à prévoir.
+
 ### Fidal
 #### _Stage opérationnel • Avril 2017 - Juillet 2017_
 Stage opérationnel au sein du service règlement des contentieux, sous la direction de Me Saoudi. Recherche en matière de droit des sociétés, droit des contrats, droit des affaires. Rédaction d'assignations et de conclusions pour les contentieux en cours.
