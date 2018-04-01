@@ -97,3 +97,4 @@ Cours et examens en Anglais.
 - Français - Niveau C2 (Langue maternelle)
 - Anglais - Niveau C1 (TOEIC 2013)
 - Espagnol - Niveau B2
+- Allemand - Niveau A1
