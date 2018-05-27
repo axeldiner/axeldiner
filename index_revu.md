@@ -5,11 +5,11 @@
 #### _VIE Officer suivi des contrats et comité de surveillance • Depuis Janvier 2018_
 Mise en place et suivi des contrats avec les différents clients de la Société Générale. Suivi des comités de surveillance de la société.
 
-Gestion et mise-à-jour du socle normatif des différents services de la Société Générale : animation de réunions de sensibilisation avec les chefs de service, analyse des différents documents normatifs de la Société Générale, gestion et support de l'outil interne de stockage, planning des différentes phases de mise-à-jour à prévoir. Animation de réunions de formation du pernonnel.
+Gestion et mise-à-jour du socle normatif des différents services de la Société Générale : mise en place de réunions de sensibilisation avec les chefs de service, analyse des différents documents normatifs de la Société Générale, gestion et support de l'outil interne de stockage, planning des différentes phases de mise-à-jour à prévoir.
 
 ### Fidal
 #### _Stage opérationnel • Avril 2017 - Juillet 2017_
-Stage opérationnel au sein du service Règlement des contentieux, sous la direction de Me Saoudi. Recherche en matière de droit des sociétés, droit des contrats, droit des affaires. Rédaction d'assignations et de conclusions pour les contentieux en cours.
+Stage opérationnel au sein du service règlement des contentieux, sous la direction de Me Saoudi. Recherche en matière de droit des sociétés, droit des contrats, droit des affaires. Rédaction d'assignations et de conclusions pour les contentieux en cours.
 
 ### Lesbros Avocats
 #### _Stage opérationnel • Février 2017 - Avril 2017_
@@ -34,7 +34,7 @@ Emploi étudiant au sein du pôle recouvrement/contentieux du siège social de l
 
 ----------------------------
 <a id="Formation"></a>
-## Formation
+## Formation 
 
 ### Université de Versailles Saint Quentin en Yvelines
 #### _Institut d'Etudes Judiciaires • 2016-2017_
@@ -47,19 +47,19 @@ Rédaction d'un mémoire [Les plateformes de streaming, qualification et régime
 
 ### Aix-Marseille Université
 #### _Master 1 Droit Privé et Sciences Criminelles • 2014-2015_
-Étude des matières fondamentales de droit privé et de sciences criminelles telles que le droit patrimonial, le droit international privé, le droit pénal spécial, le droit pénal des affaires, mais aussi des matières plus spécifiques telles que le droit des instruments de paiement ou le droit de la consommation.
+Étude des matières fondamentales de droit privé et de sciences criminelles telles que le droit patrimonial, le droit international privé, le droit pénal spécial, le droit pénal des affaires, mais aussi des matières plus spécifiques telles que le droit des instruments de paiement ou le droit de la consommation. 
 Rédaction d'un rapport de recherche [Les contrats électroniques et les règles de conflits de loi](https://axeldiner.github.io/axeldiner/Rapport.pdf) sous la direction du Professeur Barrière-Brousse.
 
 ### Sheffield University : School of Law
 #### _Licence 3 - Erasmus • 2013-2014_
 Troisème année de Licence de Droit effectuée au sein de l'Université de Sheffield (Royaume-Uni) dans le cadre du programme Erasmus.
-Étude des matières fondamentales du droit de common law et de droit international.
+Étude des matières fondamentales du droit de common law et de droit international. 
 Cours et examens en Anglais.
 
 -----------------------------------
 
 <a id="Compétences"></a>
-## Compétences
+## Compétences 
 - Propriété Intellectuelle et NTIC
 - Libertés fondamentales et droit des données personnelles
 - Droit des instruments de paiement
