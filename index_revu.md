@@ -3,7 +3,7 @@
 
 ### Société Générale Bank & Trust Luxembourg
 #### _VIE Officer suivi des contrats et comité de surveillance • Depuis Janvier 2018_
-Mise en place et suivi des contrats avec les différents clients de la Société Générale :
+Mise en place et suivi des contrats avec les différents clients de la SGBT :
 - Rédaction d'un descriptif de prestations avec les différents métiers
 - Travail de rédaction avec la finance et la fiscalité
 - Gestion notariale des contrats de prestations (conservation, communication et mise-à-jour)
