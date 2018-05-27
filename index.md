@@ -3,9 +3,9 @@
 
 ### Société Générale Bank & Trust Luxembourg
 #### _VIE Officer suivi des contrats et comité de surveillance • Depuis Janvier 2018_
-Mise en place et suivi des contrats avec les différents clients de la Société Générale. Suivi des comités de surveillance de la société.
+Mise en place et suivi des contrats avec les différents clients de la SGBT. Suivi des comités de surveillance de la société.
 
-Gestion et mise-à-jour du socle normatif des différents services de la Société Générale : animation de réunions de sensibilisation avec les chefs de service, analyse des différents documents normatifs de la Société Générale, gestion et support de l'outil interne de stockage, planning des différentes phases de mise-à-jour à prévoir. Animation de réunions de formation du pernonnel.
+Gestion et mise-à-jour du socle normatif des différents services de la SGBT : animation de réunions de sensibilisation avec les chefs de service, analyse des différents documents normatifs de la SGBT, gestion et support de l'outil interne de stockage, planning des différentes phases de mise-à-jour à prévoir. Animation de réunions de formation du pernonnel.
 
 ### Fidal
 #### _Stage opérationnel • Avril 2017 - Juillet 2017_
