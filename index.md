@@ -16,6 +16,10 @@ Gestion et mise-à-jour du socle normatif de la SGBT :
 - Planning des différentes phases de mise-à-jour à prévoir
 - Animation de réunions de formation du pernonnel
 
+Contrôle des filiales et de la vie sociale de la SGBT :
+- Gestion des pouvoirs et des délégations de signatures au sein de SGBT
+- Contrôle des filiales et des participations de la SGBT (renouvellement des mandats et suivi des Assemblées Générales)
+
 ### Fidal
 #### _Stage opérationnel • Avril 2017 - Juillet 2017_
 Stage opérationnel au sein du service règlement des contentieux, sous la direction de Me Saoudi. Recherche en matière de droit des sociétés, droit des contrats, droit des affaires. Rédaction d'assignations et de conclusions pour les contentieux en cours.
