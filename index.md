@@ -49,8 +49,8 @@ Emploi étudiant au sein du pôle recouvrement/contentieux du siège social de l
 <a id="Formation"></a>
 ## Formation
 
-### Luxembourg
-#### _CCDL : Cours Complémentaires de Droit Luxembourgeois • 2018-2019_
+#### _Luxembourg • 2018-2019_
+CCDL : Cours Complémentaires de Droit Luxembourgeois
 
 ### Université de Versailles Saint Quentin en Yvelines
 #### _Institut d'Etudes Judiciaires • 2016-2017_
