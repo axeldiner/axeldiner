@@ -3,18 +3,18 @@
 
 ### Société Générale Bank & Trust Luxembourg
 #### _VIE Officer suivi des contrats et comité de surveillance • Depuis Janvier 2018_
-Mise en place et suivi des contrats avec les différents clients de la SGBT :
-- Rédaction d'un descriptif de prestations avec les différents métiers
-- Travail de rédaction avec la finance et la fiscalité
-- Gestion notariale des contrats de prestations (conservation, communication et mise-à-jour)
-- Suivi des comités de gouvernance de la société (contrôle des prestations effectuées et de la satisfaction des entités clientes)
+Mise en place et suivi des contrats intra-groupe :
+- Rédaction d'un descriptif de prestation avec les métiers
+- Contrôle, en collaboration avec la finance et la fiscalité, des contrats groupe
+- Gestion notariale du socle contractuel (conservation, communication et mise-à-jour)
+- Suivi des comités de gouvernance (contrôle des prestations effectuées et de la satisfaction des entités clientes)
 
 Gestion et mise-à-jour du socle normatif de la SGBT :
 - Animation de réunions de sensibilisation avec les chefs de service
 - Analyse des différents documents normatifs de la SGBT
 - Gestion et support de l'outil interne de stockage
 - Planning des différentes phases de mise-à-jour à prévoir
-- Animation de réunions de formation du pernonnel
+- Animation de réunions de formation du personnel
 
 Contrôle des filiales et de la vie sociale de la SGBT :
 - Gestion des pouvoirs et des délégations de signatures au sein de SGBT
@@ -49,11 +49,13 @@ Emploi étudiant au sein du pôle recouvrement/contentieux du siège social de l
 <a id="Formation"></a>
 ## Formation
 
+### Luxembourg
+#### _CCDL : Cours Complémentaires de Droit Luxembourgeois • 2018-2019_
+
 ### Université de Versailles Saint Quentin en Yvelines
 #### _Institut d'Etudes Judiciaires • 2016-2017_
 Préparation au concours du barreau.
 
-### Université de Versailles Saint Quentin en Yvelines
 #### _Master 2 Propriété Intellectuelle et Droit des Affaires Numériques • 2015-2016_
 Le master 2 Propriété Intellectuelle et Droit des Affaires Numériques s'inscrit dans l'offre des masters de Saclay en Propriété Intellectuelle, Droit du Numérique, Droit International et Droit européen. Sa spécificité tient à une approche généraliste et transversale du droit confronté aux défis de la dématérialisation et du numérique.
 Rédaction d'un mémoire [Les plateformes de streaming, qualification et régime de responsabilité applicables](https://axeldiner.github.io/axeldiner/Mémoire M2.pdf) sous la direction de Maitre Ronan Hardouin.
