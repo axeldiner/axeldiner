@@ -2,7 +2,7 @@
 ## Emplois
 
 ### Société Générale Bank & Trust Luxembourg
-#### _VIE Officer suivi des contrats et comité de surveillance • Depuis Janvier 2018_
+#### _Corporate & Governance officer • Depuis Janvier 2018_
 Mise en place et suivi des contrats intra-groupe :
 - Rédaction d'un descriptif de prestation avec les métiers
 - Contrôle, en collaboration avec la finance et la fiscalité, des contrats groupe
@@ -19,6 +19,7 @@ Gestion et mise-à-jour du socle normatif de la SGBT :
 Contrôle des filiales et de la vie sociale de la SGBT :
 - Gestion des pouvoirs et des délégations de signatures au sein de SGBT
 - Contrôle des filiales et des participations de la SGBT (renouvellement des mandats et suivi des Assemblées Générales)
+- Gestion de la vie sociale de deux filiales
 
 ### Fidal
 #### _Stage opérationnel • Avril 2017 - Juillet 2017_
