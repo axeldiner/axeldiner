@@ -1,7 +1,7 @@
  <a id="Emplois"></a>
 ## Emplois
 
-### Société Générale Bank & Trust Luxembourg
+### Société Générale Luxembourg
 #### _Corporate & Governance officer • Depuis Janvier 2018_
 Mise en place et suivi des contrats intra-groupe :
 - Rédaction d'un descriptif de prestation avec les métiers
