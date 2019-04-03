@@ -89,7 +89,7 @@ Cours et examens en Anglais.
 
 <a id="Compétences"></a>
 ## Compétences
-- <u>Droit des nouvelles technologies et Propriété Intellectuelle
+- _Droit des nouvelles technologies et Propriété Intellectuelle_
 
   - Libertés fondamentales et droit des données personnelles
   - Droit du travail et Nouvelles technologies
@@ -101,7 +101,7 @@ Cours et examens en Anglais.
   - Contrats d’affaires dans l’univers digital (B2B)
 
 
-- <u>Droit des Affaires</u>
+- _Droit des Affaires_
 
   - Droit de la consommation
   - Droit pénal spécial
@@ -111,7 +111,7 @@ Cours et examens en Anglais.
   - Droit commercial
 
 
-- <u>Droit Général</u>
+- _Droit Général_
 
   - Droit international Privé
   - Droit des successions
@@ -119,7 +119,7 @@ Cours et examens en Anglais.
   - Droit patrimonial
 
 
-- <u>Droit Bancaire<u>
+- _Droit Bancaire_
 
   - Droit des instruments de paiement
   - Législation sur le Secteur Financier
