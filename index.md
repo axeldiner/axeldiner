@@ -89,24 +89,41 @@ Cours et examens en Anglais.
 
 <a id="Compétences"></a>
 ## Compétences
-- Propriété Intellectuelle et NTIC
-- Libertés fondamentales et droit des données personnelles
-- Droit des instruments de paiement
-- Droit du travail et Nouvelles technologies
-- Droit de la consommation
-- Droit pénal spécial
-- Contrats spéciaux des NTIC et de la PI
-- Cybercriminalité
-- Droit de la concurrence et innovation
-- International and European IP Law
-- Flux financiers dématérialisés
-- Responsabilité des intermédiaires techniques
-- Droit international Privé
-- Droit des successions
-- Droit pénal international
-- Droit patrimonial
-- Contrats d’affaires dans l’univers digital (B2B)
-- Droit des entreprises en difficulté
+- <u>Droit des nouvelles technologies et Propriété Intellectuelle
+
+  - Libertés fondamentales et droit des données personnelles
+  - Droit du travail et Nouvelles technologies
+  - Contrats spéciaux des NTIC et de la PI
+  - Cybercriminalité
+  - Propriété Intellectuelle et NTIC
+  - Flux financiers dématérialisés
+  - Responsabilité des intermédiaires techniques
+  - Contrats d’affaires dans l’univers digital (B2B)
+
+
+- <u>Droit des Affaires</u>
+
+  - Droit de la consommation
+  - Droit pénal spécial
+  - Droit de la concurrence et innovation
+  - Droit des entreprises en difficulté
+  - International and European IP Law
+  - Droit commercial
+
+
+- <u>Droit Général</u>
+
+  - Droit international Privé
+  - Droit des successions
+  - Droit pénal international
+  - Droit patrimonial
+
+
+- <u>Droit Bancaire<u>
+
+  - Droit des instruments de paiement
+  - Législation sur le Secteur Financier
+  - Introduction à la matière des véhicules d'investissement luxembourgeois
 
 -----------------------------------------------
 
