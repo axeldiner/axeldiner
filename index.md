@@ -20,6 +20,8 @@ Contrôle des filiales et de la vie sociale de la SGBT :
 - Gestion des pouvoirs et des délégations de signatures au sein de SGBT
 - Contrôle des filiales et des participations de la SGBT (renouvellement des mandats et suivi des Assemblées Générales)
 - Gestion de la vie sociale de deux filiales
+- Développement de la supervision consolidée au niveau du Groupe
+- Secrétariat des comités spécialisés de la SGBT
 
 ### Fidal
 #### _Stage opérationnel • Avril 2017 - Juillet 2017_
