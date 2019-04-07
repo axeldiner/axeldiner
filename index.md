@@ -16,7 +16,7 @@ Gestion et mise-à-jour du socle normatif :
 - Planning des différentes phases de mise-à-jour à prévoir
 - Animation de réunions de formation du personnel
 
-Contrôle de la vie sociale et des filiales :
+Animation de la vie sociale et contrôle des filiales :
 - Gestion des pouvoirs et des délégations de signatures
 - Secrétariat des comités spécialisés de Société Générale Luxembourg
 - Gestion de la vie sociale de deux filiales
