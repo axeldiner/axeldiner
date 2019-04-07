@@ -1,5 +1,5 @@
  <a id="Emplois"></a>
-## Emplois
+## <i class="far fa-building"></i> Emplois
 
 ### Société Générale Luxembourg
 #### _Corporate & Governance officer • Depuis Janvier 2018_
@@ -50,7 +50,7 @@ Emploi étudiant au sein du pôle recouvrement/contentieux du siège social de l
 
 ----------------------------
 <a id="Formation"></a>
-## Formation
+## <i class="fas fa-university"></i> Formation
 
 ### Luxembourg - CCDL
 #### _Cours Complémentaires de Droit Luxembourgeois • 2018-2019_
@@ -88,7 +88,7 @@ Cours et examens en Anglais.
 -----------------------------------
 
 <a id="Compétences"></a>
-## Compétences
+## <i class="fas fa-book"></i> Compétences
 - _Droit des nouvelles technologies et Propriété Intellectuelle_
 
   - Libertés fondamentales et droit des données personnelles
@@ -128,7 +128,7 @@ Cours et examens en Anglais.
 -----------------------------------------------
 
 <a id="Certifications"></a>
-## Certifications
+## <i class="fas fa-certificate"></i> Certifications
 - Master 2 : Propriété Intellectuelle et Droit des affaires Numériques
 - Master 1 : Droit Privé et Sciences Criminelles
 - Licence : Droit
@@ -144,4 +144,3 @@ Cours et examens en Anglais.
 - Anglais - Niveau C1 (TOEIC 2013)
 - Espagnol - Niveau B2
 - Allemand - Niveau A1
-<i class="fab fa-font-awesome-flag"></i>
