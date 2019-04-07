@@ -9,19 +9,19 @@ Mise en place et suivi des contrats intra-groupe :
 - Gestion notariale du socle contractuel (conservation, communication et mise-à-jour)
 - Suivi des comités de gouvernance (contrôle des prestations effectuées et de la satisfaction des entités clientes)
 
-Gestion et mise-à-jour du socle normatif de la SGBT :
+Gestion et mise-à-jour du socle normatif :
 - Animation de réunions de sensibilisation avec les chefs de service
-- Analyse des différents documents normatifs de la SGBT
+- Analyse des différents documents normatifs
 - Gestion et support de l'outil interne de stockage
 - Planning des différentes phases de mise-à-jour à prévoir
 - Animation de réunions de formation du personnel
 
-Contrôle des filiales et de la vie sociale de la SGBT :
-- Gestion des pouvoirs et des délégations de signatures au sein de SGBT
-- Contrôle des filiales et des participations de la SGBT (renouvellement des mandats et suivi des Assemblées Générales)
+Contrôle des filiales et de la vie sociale :
+- Gestion des pouvoirs et des délégations de signatures
+- Contrôle des filiales et des participations (renouvellement des mandats et suivi des Assemblées Générales)
 - Gestion de la vie sociale de deux filiales
 - Développement de la supervision consolidée au niveau du Groupe
-- Secrétariat des comités spécialisés de la SGBT
+- Secrétariat des comités spécialisés de Société Générale Luxembourg
 
 ### Fidal
 #### _Stage opérationnel • Avril 2017 - Juillet 2017_
@@ -46,7 +46,7 @@ Stage opérationnel au sein du cabinet d'avocat VIDAPARM sous la direction de Me
 
 ### Financo
 #### _Emploi Étudiant • Juillet 2012 - Août 2012_
-Emploi étudiant au sein du pôle recouvrement/contentieux du siège social de la société de crédit Financo : mission de contrôle des dossiers de surrendettement, prise de contact avec les clients, recherche de solutions et éventuellement création d'un dossier, avant ouverture d'une procédure, en partenariat avec le pôle juridique et les avocats partenaires.
+Emploi étudiant au sein du pôle recouvrement/contentieux du siège social de la société de crédit Financo : mission de contrôle des dossiers de sur-endettement, prise de contact avec les clients, recherche de solutions et éventuellement création d'un dossier, avant ouverture d'une procédure, en partenariat avec le pôle juridique et les avocats partenaires.
 
 ----------------------------
 <a id="Formation"></a>
@@ -72,7 +72,7 @@ Préparation au concours du barreau.
 
 #### _Master 2 Propriété Intellectuelle et Droit des Affaires Numériques • 2015-2016_
 Le master 2 Propriété Intellectuelle et Droit des Affaires Numériques s'inscrit dans l'offre des masters de Saclay en Propriété Intellectuelle, Droit du Numérique, Droit International et Droit européen. Sa spécificité tient à une approche généraliste et transversale du droit confronté aux défis de la dématérialisation et du numérique.
-Rédaction d'un mémoire [Les plateformes de streaming, qualification et régime de responsabilité applicables](https://axeldiner.github.io/axeldiner/Mémoire M2.pdf) sous la direction de Maitre Ronan Hardouin.
+Rédaction d'un mémoire [Les plateformes de streaming, qualification et régime de responsabilité applicables](https://axeldiner.github.io/axeldiner/Mémoire M2.pdf) sous la direction de Me Ronan Hardouin.
 
 ### Aix-Marseille Université
 #### _Master 1 Droit Privé et Sciences Criminelles • 2014-2015_
