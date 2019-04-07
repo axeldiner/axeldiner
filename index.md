@@ -16,12 +16,12 @@ Gestion et mise-à-jour du socle normatif :
 - Planning des différentes phases de mise-à-jour à prévoir
 - Animation de réunions de formation du personnel
 
-Contrôle des filiales et de la vie sociale :
+Contrôle de la vie sociale et des filiales :
 - Gestion des pouvoirs et des délégations de signatures
-- Contrôle des filiales et des participations (renouvellement des mandats et suivi des Assemblées Générales)
+- Secrétariat des comités spécialisés de Société Générale Luxembourg
 - Gestion de la vie sociale de deux filiales
 - Développement de la supervision consolidée au niveau du Groupe
-- Secrétariat des comités spécialisés de Société Générale Luxembourg
+- Contrôle des filiales et des participations (renouvellement des mandats et suivi des Assemblées Générales)
 
 ### Fidal
 #### _Stage opérationnel • Avril 2017 - Juillet 2017_
