@@ -23,26 +23,19 @@
     font-size: 3em;
     color: #011627;
     }
-    li {
-    color: #ff9f1c;
-    }
+
     p {
         color: #011627;
     }
-    h3, a:hover {
+    li, h3, a:hover {
         color: #ff9f1c;
     }
     .fa, .fab, .fal, .far, .fas {
      color: #ff9f1c;
     }
-    h1, h2, h3, h4, h5, h6 {
+    h1, h2, h3, h4, h5, h6, p, ul, ol, table, pre, dl {
       margin:0 0 20px;
     }
-
-    p, ul, ol, table, pre, dl {
-      margin:0 0 20px;
-    }
-
     h1, h2, h3 {
       line-height:1.1;
     }
@@ -289,17 +282,5 @@
     </div>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
 
-
-  {% if site.google_analytics %}
-    <script>
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-        ga('create', '{{ site.google_analytics }}', 'auto');
-        ga('send', 'pageview');
-    </script>
-  {% endif %}
   </body>
 </html>
