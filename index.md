@@ -139,7 +139,7 @@ Cours et examens en Anglais.
 ---------------------------------------------------
 
 <a id="Langues"></a>
-##  <i class="fab fa-font-awesome-flag"><font color=#ff9f1c></font></i> Langues
+##  <font color=#ff9f1c><i class="fab fa-font-awesome-flag"></i></font> Langues
 - Français - Niveau C2 (Langue maternelle)
 - Anglais - Niveau C1 (TOEIC 2013)
 - Espagnol - Niveau B2
