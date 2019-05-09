@@ -134,8 +134,10 @@ Cours et examens en Anglais.
 - Licence : Droit
 - TOEIC (session février 2013 : 945/990pts)
 - Diplôme C2i (niveau B2)
+
   - Maîtrise suite office (Word, Excel, VBA, Powerpoint)
   - Connaissances basiques web-design (HTML et CSS)
+  
 - Permis de conduire B
 
 ---------------------------------------------------
