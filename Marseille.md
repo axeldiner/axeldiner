@@ -24,10 +24,9 @@ Le vieux port c'est un port en forme de U. Quand tu as la Canebière derrière t
  - Sur ta gauche tu peux accéder au palais du Pharo et plus loin aux plages
 
  Je vous conseille d'aller vers le Mucem en passant devant la Mairie, c'est le meilleur chemin à mon avis. Normalement sur le chemin tu auras un marché avec des trucs "locaux" genre du savon & co. Une fois devant la Marie, vous aurez une superbe vue sur le port et notre dame la garde.
- Sur la droite de la Mairie tu as une série d'escalier qui mène à un hôtel 5 étoiles avec une terrasse et une vue magnifique sur le port. Si vous êtes motivés, vous pouvez y faire une pause et vous ruinez pour un coca sous le soleil (le coca est à 8€ je crois).
+ Sur la droite de la Mairie tu as une série d'escalier qui mène à un [hôtel 5 étoiles](https://fr.wikipedia.org/wiki/H%C3%B4tel-Dieu_de_Marseille) avec une terrasse et une vue magnifique sur le port. Si vous êtes motivés, vous pouvez y faire une pause et vous ruinez pour un coca sous le soleil (le coca est à 8€ je crois).
 
  => Dans le centre tu as différents parkings pour y laisser une voiture mais je pense que c'est assez cher.
-
 
  Next step : le Mucem
 
@@ -100,6 +99,8 @@ Une fois devant la statue, si tu arrêtes de regarder le monsieur tout nu, tu au
 
 Il y a aussi des restaurants autour de David.
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9773.075324762312!2d5.366932991388442!3d43.260796004053404!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12c9c79078643f47%3A0x281667b7c533cb68!2sStatue+du+David!5e0!3m2!1sfr!2slu!4v1560691692371!5m2!1sfr!2slu" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 Personnellement, je vous conseille d'aller vers la gauche, de faire un tour dans le [parc Borély](https://fr.wikipedia.org/wiki/Parc_Bor%C3%A9ly), puis de manger une glace au bord de la plage et d'aller voir les jeunes skateurs faire les beaux. La plage à coté du bowl est un peu plus calme normalement.
 Si il fait moche, vous aurez peut-être même la possibilité de voir des mecs faire du (kite)surf.
 
@@ -120,15 +121,19 @@ Notre Dame de la Garde c'est une basilique qui surplombe tout Marseille. Pour l'
 
 Vu qu'elle est au-dessus de tout Marseille, il faut forcément grimper un peu beaucoup pour y accéder. Vous pouvez faire ça à pied depuis le vieux port si vous êtes motivées mais c'est quand même une grosse marche avec un bon dénivelé. Sinon tout en haut il y a un parking pour se garer mais ici encore, Marseille oblige, il faut être assez détendu pour faire la route en voiture. Perso, je vous conseille de faire ça en bus. Le bus part d'un arrêt à côté du Mucem et peut aussi être pris sur le vieux port en face du burger king (référence de qualité).
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2904.4471289692883!2d5.3690490148582715!3d43.28395718424767!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12c9c0c976b89df5%3A0x89254f95b5ee2ded!2sBasilique+Notre-Dame+de+la+Garde!5e0!3m2!1sfr!2slu!4v1560691773178!5m2!1sfr!2slu" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 Une fois en haut vous aurez une vue à 360 sur tout Marseille, c'est assez ouf, même quand on a l’habitude. *Un must see*.
 
 Si vous redescendez à pied ou que vous êtes sur le côté Gauche du vieux port, vous pouvez faire un tour au four à navette et à [l’abbaye Saint Victor](https://fr.wikipedia.org/wiki/Abbaye_Saint-Victor_de_Marseille). La vue y est magnifique (comme toujours enfait) et les navettes toute bonnes.
 
-**Palais Longchamps**
+**Palais Longchamp**
 
 J'aime beaucoup [cet endroit](https://fr.wikipedia.org/wiki/Palais_Longchamp) donc je suis peut-être un peu biaisé mais bon.
 Donc c'est un palais avec un super jardin qui était dans le passé un parc zoologique(il reste des cages mais elles sont vides).
 
 Pour y accéder il faut remonter toute la Canebière. Sur le chemin, il y a [l'église des réformés](https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Vincent-de-Paul_de_Marseille) à visiter. Elle est très jolie je trouve.
 
-Bref il faut simplement suivre les rails du Tram (ou prendre le tram) et s'arrêter à l'arrêt Longchamps.
+Bref il faut simplement suivre les rails du Tram (ou prendre le tram) et s'arrêter à l'arrêt Longchamp.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2897.82381217813!2d5.3935910773174145!3d43.30483207153818!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12c9bf62559b4381%3A0xe8758c4ddd3ba377!2sParc+Longchamp!5e0!3m2!1sfr!2slu!4v1560691856537!5m2!1sfr!2slu" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
