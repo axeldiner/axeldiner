@@ -129,6 +129,7 @@ Cours et examens en Anglais.
 
 <a id="Certifications"></a>
 ## <i class="fas fa-certificate"></i> Certifications
+- Cours Complémentaires de Droit Luxembourgeois
 - Master 2 : Propriété Intellectuelle et Droit des affaires Numériques
 - Master 1 : Droit Privé et Sciences Criminelles
 - Licence : Droit
@@ -137,7 +138,7 @@ Cours et examens en Anglais.
 
   - Maîtrise suite office (Word, Excel, VBA, Powerpoint)
   - Connaissances basiques web-design (HTML et CSS)
-  
+
 - Permis de conduire B
 
 ---------------------------------------------------
