@@ -52,7 +52,7 @@ Emploi étudiant au sein du pôle recouvrement/contentieux du siège social de l
 <a id="Formation"></a>
 ## <i class="fas fa-university"></i> Formation
 
-### Luxembourg - CCDL
+### Ministère de la Justice du Grand-Duché de Luxembourg
 #### _Cours Complémentaires de Droit Luxembourgeois • 2018-2019_
 Formation en Droit Luxembourgeois :
 - Législation sur le Secteur Financier
