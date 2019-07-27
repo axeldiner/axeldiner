@@ -1,48 +1,51 @@
- <a id="Emplois"></a>
+<a id="Emplois"></a>
 ## <i class="far fa-building"></i> Emplois
 
 ### Société Générale Luxembourg
-#### _Corporate & Governance officer • Depuis Janvier 2018_
-Mise en place et suivi des contrats intra-groupe :
-- Rédaction d'un descriptif de prestation avec les métiers
-- Contrôle, en collaboration avec la finance et la fiscalité, des contrats groupe
-- Gestion notariale du socle contractuel (conservation, communication et mise-à-jour)
-- Suivi des comités de gouvernance (contrôle des prestations effectuées et de la satisfaction des entités clientes)
+#### _Corporate & Governance officer • Since January 2018_
+Implementation and monitoring of the intragroup contractual base :
+- Drafting of services description in collaboration with departments
+- Control in collaboration with tax and finance departments of the contractual base
+- Notarial administration (conservation, communication and update)
+- Monitoring of the governance committees
 
-Gestion et mise-à-jour du socle normatif :
-- Animation de réunions de sensibilisation avec les chefs de service
-- Analyse des différents documents normatifs
-- Gestion et support de l'outil interne de stockage
-- Planning des différentes phases de mise-à-jour à prévoir
-- Animation de réunions de formation du personnel
+Management and update of the normative corpus :
+- Sensitisation meetings with heads of departments
+- Review of the normative corpus
+- Administration and support of the dedicated software
+- Scheduling of the updates to plan
+- Training session for the staff
 
-Animation de la vie sociale et contrôle des filiales :
-- Gestion des pouvoirs et des délégations de signatures
-- Secrétariat des comités spécialisés de Société Générale Luxembourg
-- Gestion de la vie sociale de deux filiales
-- Développement de la supervision consolidée au niveau du Groupe
-- Contrôle des filiales et des participations (renouvellement des mandats et suivi des Assemblées Générales)
+Social life of Société Générale Luxembourg and overview of the subsidiaries :
+- Administration and management of PoA and signatures
+- Secretary of Société Générale Luxembourg's special committees
+- Management of the social life of two international subsidiaries
+- Development and implementation of a consolidated supervision on a Group level
+- Administrative control of the subsidiaries
 
 ### Fidal
-#### _Stage opérationnel • Avril 2017 - Juillet 2017_
-Stage opérationnel au sein du service règlement des contentieux, sous la direction de Me Saoudi. Recherche en matière de droit des sociétés, droit des contrats, droit des affaires. Rédaction d'assignations et de conclusions pour les contentieux en cours.
+#### _Operational internship • April 2017 - July 2017_
+Operationnal internship within the litigation team, under the direction of Me Saoudi. Research in Corporate Law, Contract Law and Business Law. Drafting of subpoenas and conclusions related to on-going cases.
 
 ### Lesbros Avocats
-#### _Stage opérationnel • Février 2017 - Avril 2017_
-Stage opérationnel au sein du cabinet de Me LESBROS, spécialisé en droit de la propriété intellectuelle et en droit des affaires numériques.
-Rédaction de contrats de prestations informatiques et de partenariat. Dépôt de marques européennes, déclarations auprès de la CNIL de traitements de données personnelles. Recherche et veille juridique. Rédaction de consultations pour les différentes sociétés clientes du cabinet. Rédaction [d'articles d'actualité et d'analyse](http://www.lesbros-avocats.com/donnees-personnelles-ce-qui-change-avec-la-loi-pour-une-republique-numerique/) pour le site internet du cabinet.
+#### _Operational internship • February 2017 - April 2017_
+Operational internship under the direction of Me LESBROS, specialised in IT/IP Law.
+Drafting and review of IT contracts.
+EU trademark registering, discussions with the Comission Nationale Informatique et Libertés (CNIL) regarding personnal data processing under GDPR regulation. Drafting of legal advice for office's clients. Writing [of news articles](http://www.lesbros-avocats.com/donnees-personnelles-ce-qui-change-avec-la-loi-pour-une-republique-numerique/) for the office's website.
 
 ### Airbus Helicopters
-#### _Stage opérationnel • Juin 2016 - Décembre 2016_
-Stage opérationnel au sein du service propriété intellectuelle d'Airbus Helicopters : Étude, classement et rédaction de clauses de confidentialité et de propriété intellectuelle en anglais et en français. Rédaction et mise en place d’un audit visant à vérifier l’application des règles de confidentialité au sein des différents services du groupe. Participation à la négociation et la rédaction de différents types de contrats avec différents types d’acteurs (privé/public).
+#### _Operational internship • June 2016 - December 2016_
+Operational internship within Airbus Helicopters' intellectual property team : Study, classification and drafting of NDA and IP contracts in english and french. Drafting and implementation of an audit survey regarding the application of confidentiality rules within the Group.
+
+Active participation during the negotiation and drafting of contracts with different type of counter-parties (private/public).
 
 ### Bnp Paribas
-#### _Emploi étudiant • Août 2015 - Septembre 2015_
-Emploi étudiant au sein du pôle conformité du siège social PACA de la BNP Paribas : mission de contrôle des différentes ouvertures de compte effectuées en région PACA, accompagnée d'une prise de contact avec les commerciaux en cas de manquement aux règles de procédure.
+#### _Student job • August 2015 - September 2015_
+Student job within BNP Paribas' compliance team : controls related to account opening in the PACA region (direct contact with the local team in case of anomalies or need of further controls).
 
 ### Scp Vidaparm - Pellier - Arnaud & Mouren
-#### _Stage opérationnel • Juillet 2014 - Août 2014_
-Stage opérationnel au sein du cabinet d'avocat VIDAPARM sous la direction de Me Mouren Mireille, avocate au barreau de Marseille (rédaction de projet de conclusion, résumé de dossier pour présentation, rédaction de correspondance, recherche et veille juridique, présence lors d’audiences, rencontre avec clients).
+#### _Operational internship • July 2014 - August 2014_
+Operational internship under the direction of Me MOUREN (drafting of conclusions, briefing on on-going cases, drafing of legal letters).
 
 ### Financo
 #### _Emploi Étudiant • Juillet 2012 - Août 2012_
