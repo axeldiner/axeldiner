@@ -1,5 +1,5 @@
 <a id="Emplois"></a>
-## <i class="far fa-building"></i> Emplois
+## <i class="far fa-building"></i> Professional Experiences
 
 ### Société Générale Luxembourg
 #### _Corporate & Governance officer • Since January 2018_
@@ -49,7 +49,7 @@ Operational internship under the direction of Me MOUREN (drafting of conclusions
 
 ### Financo
 #### _Emploi Étudiant • Juillet 2012 - Août 2012_
-Emploi étudiant au sein du pôle recouvrement/contentieux du siège social de la société de crédit Financo : mission de contrôle des dossiers de sur-endettement, prise de contact avec les clients, recherche de solutions et éventuellement création d'un dossier, avant ouverture d'une procédure, en partenariat avec le pôle juridique et les avocats partenaires.
+Student job within Financo, a subsidiairy from the French Groupe Arkea, in charge of the consumer credit offer.
 
 ----------------------------
 <a id="Formation"></a>
@@ -57,41 +57,39 @@ Emploi étudiant au sein du pôle recouvrement/contentieux du siège social de l
 
 ### Ministère de la Justice du Grand-Duché de Luxembourg
 #### _Cours Complémentaires de Droit Luxembourgeois • 2018-2019_
-Formation en Droit Luxembourgeois :
-- Législation sur le Secteur Financier
-- Introduction à la matière des véhicules d'investissement luxembourgeois
-- Institutions et Sources du Droit Luxembourgeois
-- Procédure de Signification et d'Exécution des jugements
-- Éléments de Droit Commercial
-- Éléments de Responsabilité Civile
-- Droit du Travail
-- Statut et principes fondamentaux des professions du Droit
-- Procédure Administrative
+Study in Luxemburgish Law :
+- Financial Law
+- Introduction to Luxemburgish investment vehicles
+- Institutions and Sources of Luxemburgish Law
+- Signification and Execution of judiciary rulling
+- Commercial Law
+- Study of the Civil Liability
+- Labour Law
+- Fundamentals of the Legal professions
+- Administrative Procedure
 
 
 ### Université de Versailles Saint Quentin en Yvelines
 #### _Institut d'Etudes Judiciaires • 2016-2017_
-Préparation au concours du barreau.
+Preparation for the french Bar entry exam.
 
-#### _Master 2 Propriété Intellectuelle et Droit des Affaires Numériques • 2015-2016_
-Le master 2 Propriété Intellectuelle et Droit des Affaires Numériques s'inscrit dans l'offre des masters de Saclay en Propriété Intellectuelle, Droit du Numérique, Droit International et Droit européen. Sa spécificité tient à une approche généraliste et transversale du droit confronté aux défis de la dématérialisation et du numérique.
-Rédaction d'un mémoire [Les plateformes de streaming, qualification et régime de responsabilité applicables](https://axeldiner.github.io/axeldiner/Mémoire M2.pdf) sous la direction de Me Ronan Hardouin.
+#### _Master 2 Intellectual Property and IT Law • 2015-2016_
+End of study dissertation [Accountability and applicable regime for streaming website](https://axeldiner.github.io/axeldiner/Mémoire M2.pdf) under the direction of Me Ronan Hardouin.
 
 ### Aix-Marseille Université
-#### _Master 1 Droit Privé et Sciences Criminelles • 2014-2015_
-Étude des matières fondamentales de droit privé et de sciences criminelles telles que le droit patrimonial, le droit international privé, le droit pénal spécial, le droit pénal des affaires, mais aussi des matières plus spécifiques telles que le droit des instruments de paiement ou le droit de la consommation.
-Rédaction d'un rapport de recherche [Les contrats électroniques et les règles de conflits de loi](https://axeldiner.github.io/axeldiner/Rapport.pdf) sous la direction du Professeur Barrière-Brousse.
+#### _Master 1 Private Law and Criminal Study • 2014-2015_
+End of study dissertation [Electronics contracts and international conflicts of law](https://axeldiner.github.io/axeldiner/Rapport.pdf) under the direction of Professor Barrière-Brousse.
 
 ### Sheffield University : School of Law
-#### _Licence 3 - Erasmus • 2013-2014_
-Troisème année de Licence de Droit effectuée au sein de l'Université de Sheffield (Royaume-Uni) dans le cadre du programme Erasmus.
-Étude des matières fondamentales du droit de common law et de droit international.
-Cours et examens en Anglais.
+#### _Law Degree Year 3 - Erasmus • 2013-2014_
+Third Year of Law degree carried within the University of Sheffield (UK) as an Erasmus student.
+Study of fundamentals in Common Law and International Law. 
+Courses and exams in English.
 
 -----------------------------------
 
 <a id="Compétences"></a>
-## <i class="fas fa-book"></i> Compétences
+## <i class="fas fa-book"></i> Skills
 - _Droit des nouvelles technologies et Propriété Intellectuelle_
 
   - Libertés fondamentales et droit des données personnelles
@@ -131,24 +129,24 @@ Cours et examens en Anglais.
 -----------------------------------------------
 
 <a id="Certifications"></a>
-## <i class="fas fa-certificate"></i> Certifications
+## <i class="fas fa-certificate"></i> Certificates
 - Cours Complémentaires de Droit Luxembourgeois
-- Master 2 : Propriété Intellectuelle et Droit des affaires Numériques
-- Master 1 : Droit Privé et Sciences Criminelles
-- Licence : Droit
-- TOEIC (session février 2013 : 945/990pts)
-- Diplôme C2i (niveau B2)
+- Master 2 : Intellectual Property and IT Law
+- Master 1 : Private and Criminal Law
+- Degree : Law
+- TOEIC (february 2013 : 945/990pts)
+- Diplôme C2i (level B2)
 
-  - Maîtrise suite office (Word, Excel, VBA, Powerpoint)
-  - Connaissances basiques web-design (HTML et CSS)
+  - Microsoft Office (Word, Excel, VBA, Powerpoint)
+  - Webdesign basic knowledge (HTML & CSS)
 
-- Permis de conduire B
+- Driving Licence
 
 ---------------------------------------------------
 
 <a id="Langues"></a>
-##  <i class="fab fa-font-awesome-flag"></i> Langues
-- Français - Niveau C2 (Langue maternelle)
-- Anglais - Niveau C1 (TOEIC 2013)
-- Espagnol - Niveau B2
-- Allemand - Niveau A1
+##  <i class="fab fa-font-awesome-flag"></i> Language
+- French - Level C2 (Native speaker)
+- Engligh - Level C1 (TOEIC 2013)
+- Spanish - Level B2
+- German - Level A1
