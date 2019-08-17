@@ -90,41 +90,41 @@ Courses and exams in English.
 
 <a id="Compétences"></a>
 ## <i class="fas fa-book"></i> Skills
-- _Droit des nouvelles technologies et Propriété Intellectuelle_
+- _Intellectual Property & IT Law_
 
-  - Libertés fondamentales et droit des données personnelles
-  - Droit du travail et Nouvelles technologies
-  - Contrats spéciaux des NTIC et de la PI
-  - Cybercriminalité
-  - Propriété Intellectuelle et NTIC
-  - Flux financiers dématérialisés
+  - Data Protection and Human rights
+  - Labour Law and New Technologies
+  - Special contracts in IP and IT
+  - Cybercriminality
+  - Intellectual Property
+  - Dematerialized cash flow
   - Responsabilité des intermédiaires techniques
-  - Contrats d’affaires dans l’univers digital (B2B)
+  - Business Contract in a digital space (B2B)
 
 
-- _Droit des Affaires_
+- _Corporate Law_
 
-  - Droit de la consommation
-  - Droit pénal spécial
-  - Droit de la concurrence et innovation
-  - Droit des entreprises en difficulté
+  - Consumer Protection
+  - Criminal Law
+  - Competion and Innovation Law
+  - Bankruptcy Law
   - International and European IP Law
-  - Droit commercial
+  - Commercial Law
 
 
-- _Droit Général_
+- _Private Law_
 
-  - Droit international Privé
-  - Droit des successions
-  - Droit pénal international
-  - Droit patrimonial
+  - Private international Law
+  - Law on successions
+  - Criminal international Law
+  - Property Law
 
 
-- _Droit Bancaire_
+- _Financial Law_
 
-  - Droit des instruments de paiement
-  - Législation sur le Secteur Financier
-  - Introduction à la matière des véhicules d'investissement luxembourgeois
+  - Law on Payment Instruments
+  - Financial Law
+  - Introduction to Luxemburgish investment vehicles
 
 -----------------------------------------------
 
