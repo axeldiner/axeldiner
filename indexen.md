@@ -98,7 +98,7 @@ Courses and exams in English.
   - Cybercriminality
   - Intellectual Property
   - Dematerialized cash flow
-  - Responsabilité des intermédiaires techniques
+  - liability of internet intermediaries
   - Business Contract in a digital space (B2B)
 
 
