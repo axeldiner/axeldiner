@@ -82,7 +82,7 @@ End of study dissertation [Electronics contracts and international conflicts of 
 
 ### Sheffield University : School of Law
 #### _Law Degree Year 3 - Erasmus • 2013-2014_
-Third Year of Law degree carried within the University of Sheffield (UK) as an Erasmus student.
+Third Year of Law degree carried out within the University of Sheffield (UK) as an Erasmus student.
 Study of fundamentals in Common Law and International Law. 
 Courses and exams in English.
 
