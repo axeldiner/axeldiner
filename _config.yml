@@ -4,22 +4,21 @@ description: [A short description of your site's purpose]
 t:
   fr:
     Intro:
-      "Grand Schtroumph.
-      Juriste en droit des Nouvelles Technologies et en Propriété Intellectuelle, j'occupe actuellement le poste de Corporate & Governance officer au sein de la Société Générale Luxembourg.
+      "Juriste en droit des Nouvelles Technologies et en Propriété Intellectuelle, j'occupe actuellement le poste de Corporate & Governance officer au sein de la Société Générale Luxembourg.
 Faites un petit tour sur la page pour en découvrir plus sur mon activité et ma formation."
     CV:
       name: "Télécharger le CV au format PDF"
       url: "/CV.pdf"
     Emploi:
-      name: "Emplois"
+      "Emplois"
     Formation:
-      name: "Formation"
+      "Formation"
     Competence:
-      name: "Compétences"
+      "Compétences"
     Certification:
-      name: "Certifications"
+      "Certifications"
     Langues:
-      name: "Langues"
+      "Langues"
   en:
     Intro:
       "Jurist in Intellectual Property and IT Law, I am currently working as a Corporate & Governance Officer at Société Générale Luxembourg.
@@ -28,13 +27,13 @@ If you want to learn more about my formation and my activities please take a loo
       name: "Download Resume as a PDF file"
       url: "/CV.pdf"
     Emploi:
-      name: "Professional Experiences"
+      "Professional Experiences"
     Formation:
-      name: "Formation"
+      "Formation"
     Competence:
-      name: "Skills"
+      "Skills"
     Certification:
-      name: "Certificates"
+      "Certificates"
     Langues:
-      name: "Language"
+      "Language"
    
