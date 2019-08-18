@@ -1,3 +1,39 @@
 theme: jekyll-theme-minimal
 title: Axel DINER
 description: [A short description of your site's purpose]
+t:
+  fr:
+    Intro:
+      name: "Juriste en droit des Nouvelles Technologies et en Propriété Intellectuelle, j'occupe actuellement le poste de Corporate & Governance officer au sein de la Société Générale Luxembourg.
+Faites un petit tour sur la page pour en découvrir plus sur mon activité et ma formation."
+    CV:
+      name: "Télécharger le CV au format PDF"
+      url: "/CV.pdf"
+    Emploi:
+      name: "Emplois"
+    Formation:
+      name: "Formation"
+    Competence:
+      name: "Compétences"
+    Certification:
+      name: "Certifications"
+    Langues:
+      name: "Langues"
+  en:
+    Intro:
+      name: "Jurist in Intellectual Property and IT Law, I am currently working as a Corporate & Governance Officer at Société Générale Luxembourg.
+If you want to learn more about my formation and my activities please take a look at this page."
+    CV:
+      name: "Download Resume as a PDF file"
+      url: "/CV.pdf"
+    Emploi:
+      name: "Professional Experiences"
+    Formation:
+      name: "Formation"
+    Competence:
+      name: "Skills"
+    Certification:
+      name: "Certificates"
+    Langues:
+      name: "Language"
+   
