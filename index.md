@@ -153,8 +153,8 @@ Cours et examens en Anglais.
 
 <a id="Langues"></a>
 ##  <i class="fab fa-font-awesome-flag"></i> Langues
--  🇫🇷 Français - Niveau C2 (Langue maternelle)
-- Anglais - Niveau C1 (TOEIC 2013)
-- Espagnol - Niveau B2
-- Allemand - Niveau A1
-- Luxembourgeois - Niveau A1
+🇫🇷 Français - Niveau C2 (Langue maternelle)
+🇬🇧 Anglais - Niveau C1 (TOEIC 2013)
+🇪🇸 Espagnol - Niveau B2
+🇩🇪 Allemand - Niveau A1
+🇱🇺 Luxembourgeois - Niveau A1
