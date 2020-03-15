@@ -7,7 +7,7 @@ lang: en
 
 ### Société Générale Luxembourg
 #### _Corporate & Governance officer • Since January 2018_
-Regulator relationship (CSSF):
+Regulator relationship (CSSF) :
 - Centralisation of all the exchange with our regulator
 - Organisation of On-Site Visites
 
@@ -158,3 +158,4 @@ Courses and exams in English.
 - Engligh - Level C1 (TOEIC 2013)
 - Spanish - Level B2
 - German - Level A1
+- Luxembourgish - Level A1
