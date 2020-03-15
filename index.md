@@ -7,6 +7,10 @@ lang: fr
 
 ### Société Générale Luxembourg
 #### _Corporate & Governance officer • Depuis Janvier 2018_
+Relation régulateur (CSSF):
+- Centralisation des échanges avec le régulateur
+- Organisation des visites du site
+
 Mise en place et suivi des contrats intra-groupe :
 - Rédaction d'un descriptif de prestation avec les métiers
 - Contrôle, en collaboration avec la finance et la fiscalité, des contrats groupe

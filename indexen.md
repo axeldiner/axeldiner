@@ -7,6 +7,10 @@ lang: en
 
 ### Société Générale Luxembourg
 #### _Corporate & Governance officer • Since January 2018_
+Regulator relationship (CSSF):
+- Centralisation of all the exchange with our regulator
+- Organisation of On-Site Visites
+
 Implementation and monitoring of the intragroup contractual base :
 - Drafting of services description in collaboration with departments
 - Control in collaboration with tax and finance departments of the contractual base
@@ -87,7 +91,7 @@ End of study dissertation [Electronics contracts and international conflicts of 
 ### Sheffield University : School of Law
 #### _Law Degree Year 3 - Erasmus • 2013-2014_
 Third Year of Law degree carried out within the University of Sheffield (UK) as an Erasmus student.
-Study of fundamentals in Common Law and International Law. 
+Study of fundamentals in Common Law and International Law.
 Courses and exams in English.
 
 -----------------------------------
