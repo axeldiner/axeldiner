@@ -154,8 +154,7 @@ Courses and exams in English.
 
 <a id="Langues"></a>
 ##  <i class="fab fa-font-awesome-flag"></i> Language
-🇫🇷 French - Level C2 (Native speaker)
-
+🇫🇷 French - Level C2 (Native speaker)  
 🇬🇧 Engligh - Level C1 (TOEIC 2013)
 
 🇪🇸 Spanish - Level B2
