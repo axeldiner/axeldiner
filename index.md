@@ -141,12 +141,10 @@ Cours et examens en Anglais.
 - Master 2 : Propriété Intellectuelle et Droit des affaires Numériques
 - Master 1 : Droit Privé et Sciences Criminelles
 - Licence : Droit
-- TOEIC (session février 2013 : 945/990pts)
-- Diplôme C2i (niveau B2)
-
+- TOEIC (945/990pts)
+- Diplôme C2i (niveau B2)  
   - Maîtrise suite office (Word, Excel, VBA, Powerpoint)
-  - Connaissances basiques web-design (HTML et CSS)
-
+  - Connaissances basiques web-design (HTML et CSS)  
 - Permis de conduire B
 
 ---------------------------------------------------

@@ -142,12 +142,10 @@ Courses and exams in English.
 - Master 2 : Intellectual Property and IT Law
 - Master 1 : Private and Criminal Law
 - Degree : Law
-- TOEIC (february 2013 : 945/990pts)
-- Diplôme C2i (level B2)
-
+- TOEIC (945/990pts)
+- Diplôme C2i (level B2)  
   - Microsoft Office (Word, Excel, VBA, Powerpoint)
-  - Webdesign basic knowledge (HTML & CSS)
-
+  - Webdesign basic knowledge (HTML & CSS)  
 - Driving Licence
 
 ---------------------------------------------------
