@@ -7,7 +7,7 @@ lang: fr
 
 ### Société Générale Luxembourg
 #### _Corporate & Governance officer • Depuis Janvier 2018_
-Relation régulateur (CSSF) :
+Relation régulateur (BCE/CSSF) :
 - Centralisation des échanges avec le régulateur
 - Organisation des visites du site
 
