@@ -7,7 +7,7 @@ lang: en
 
 ### Société Générale Luxembourg
 #### _Corporate & Governance officer • Since January 2018_
-Regulator relationship (CSSF) :
+Regulator relationship (ECB/CSSF) :
 - Centralisation of all exchanges with our regulators
 - Organisation of On-Site Visites
 
@@ -24,10 +24,10 @@ Management and update of the normative corpus :
 - Scheduling of the updates to plan
 - Training session for the staff
 
-Social life of Société Générale Luxembourg and overview of the subsidiaries :
+Corporate life of Société Générale Luxembourg and supervision of the subsidiaries :
 - Administration and management of PoA and signatures
 - Secretary of Société Générale Luxembourg's special committees
-- Management of the social life of two international subsidiaries
+- Management of the corporate life of two international subsidiaries
 - Development and implementation of a consolidated supervision on a Group level
 - Administrative control of the subsidiaries
 
