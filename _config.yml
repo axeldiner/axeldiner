@@ -3,9 +3,10 @@ title: Axel DINER
 description: [A short description of your site's purpose]
 t:
   fr:
-    Intro:
-      "Juriste en droit des Nouvelles Technologies et en Propriété Intellectuelle, j'occupe actuellement le poste de Corporate & Governance officer au sein de la Société Générale Luxembourg.
-Faites un petit tour sur la page pour en découvrir plus sur mon activité et ma formation."
+    Intro: >
+      Juriste de formation, passionné par la gouvernance d’entreprise et la conformité, j’exerce aujourd’hui en tant que <strong>Manager – Governance Services</strong> chez Arendt Investor Services S.A.  
+      J’accompagne des structures d’investissement et des entités réglementées dans la mise en place de cadres de gouvernance efficaces et conformes aux exigences réglementaires.  
+      Parcourez cette page pour découvrir mon parcours et mes domaines d’expertise.
     CV:
       name: "Télécharger le CV au format PDF"
       url: "/CV.pdf"
