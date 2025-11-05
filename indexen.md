@@ -3,157 +3,174 @@ lang: en
 ---
 
 <a id="Emplois"></a>
-## <i class="far fa-building"></i> Professional Experiences
+## <i class="far fa-building"></i> Professional Experience
+
+### Arendt Investor Services S.A.
+#### _Manager – Governance Services • Since August 2021_
+**Team Leadership and Portfolio Management**  
+- Leading a team of five professionals overseeing a portfolio of regulated entities and unregulated investment funds (UCITS & AIFs).  
+- Defining strategic direction and supervising operations while ensuring full compliance with applicable regulatory frameworks.  
+- Delivering high-quality services to a diverse client base.  
+
+**Corporate Governance and Advisory**  
+- Providing comprehensive oversight of governance and regulatory compliance for portfolio entities.  
+- Holding mandates across various corporate groups, reinforcing governance expertise and offering first-hand insights into industry-specific challenges.  
+- Leading and facilitating complex Board meetings in line with best governance practices.  
+- Drafting and reviewing Board minutes with precision, ensuring record integrity and decision traceability.  
+- Monitoring regulatory developments and proactively advising clients on governance, risk management, and compliance.  
+
+**Training and Knowledge Sharing**  
+- Designing and delivering tailored training programs on corporate governance and regulatory frameworks.  
+- Promoting continuous professional development within Arendt Investor Services to maintain up-to-date regulatory knowledge.  
+
+**Business Development and Service Promotion**  
+- Analyzing client needs and market trends to develop innovative services aligned with evolving regulations.  
+- Collaborating with clients to identify challenges and deliver customized governance and compliance solutions.  
+- Working with internal teams to promote and cross-sell services, contributing to the firm’s growth and market positioning.  
+
 
 ### Société Générale Luxembourg
-#### _Corporate & Governance officer • Since January 2018_
-Regulator relationship (ECB/CSSF) :
-- Centralisation of all exchanges with our regulators
-- Organisation of On-Site Visites
+#### _Corporate & Governance Officer • January 2018 – July 2021_
+Main point of contact for regulators (ECB, CSSF) and coordination of institutional exchanges.  
+Supervised and harmonized intra-group contracts in collaboration with business, finance, and tax departments.  
+Managed the internal normative framework: monitoring, updates, and employee awareness on internal and regulatory requirements.  
+Oversaw corporate life and subsidiary governance: power management, committee secretariat, and follow-up of corporate mandates.  
+Contributed to the development of consolidated supervision at the group level.  
 
-Implementation and monitoring of the intragroup contractual base :
-- Drafting of services description in collaboration with departments
-- Control in collaboration with tax and finance departments of the contractual base
-- Notarial administration (conservation, communication and update)
-- Monitoring of the governance committees
-
-Management and update of the normative corpus :
-- Sensitisation meetings with heads of departments
-- Review of the normative corpus
-- Administration and support of the dedicated software
-- Scheduling of the updates to plan
-- Training session for the staff
-
-Corporate life of Société Générale Luxembourg and supervision of the subsidiaries :
-- Administration and management of PoA and signatures
-- Secretary of Société Générale Luxembourg's special committees
-- Management of the corporate life of two international subsidiaries
-- Development and implementation of a consolidated supervision on a Group level
-- Administrative control of the subsidiaries
 
 ### Fidal
-#### _Operational internship • April 2017 - July 2017_
-Operationnal internship within the litigation team, under the direction of Me Saoudi. Research in Corporate Law, Contract Law and Business Law. Drafting of subpoenas and conclusions related to on-going cases.
+#### _Legal Internship • April 2017 – July 2017_
+Operational internship within the litigation department under the supervision of Me Saoudi.  
+Legal research in corporate, contract, and business law. Drafting of writs and submissions for ongoing cases.  
+
 
 ### Lesbros Avocats
-#### _Operational internship • February 2017 - April 2017_
-Operational internship under the direction of Me LESBROS, specialised in IT/IP Law.
-Drafting and review of IT contracts.
-EU trademark registering, discussions with the Comission Nationale Informatique et Libertés (CNIL) regarding personnal data processing under GDPR regulation. Drafting of legal advice for office's clients. Writing [of news articles](http://www.lesbros-avocats.com/donnees-personnelles-ce-qui-change-avec-la-loi-pour-une-republique-numerique/) for the office's website.
+#### _Legal Internship • February 2017 – April 2017_
+Operational internship within the law firm of Me Lesbros, specializing in intellectual property and digital business law.  
+Drafting of IT service and partnership agreements.  
+Filing of EU trademarks and data protection declarations with the CNIL.  
+Legal research and drafting of advisory notes for clients.  
+Authored [articles and analyses](http://www.lesbros-avocats.com/donnees-personnelles-ce-qui-change-avec-la-loi-pour-une-republique-numerique/) for the firm’s website.  
+
 
 ### Airbus Helicopters
-#### _Operational internship • June 2016 - December 2016_
-Operational internship within Airbus Helicopters' intellectual property team : Study, classification and drafting of NDA and IP contracts in english and french. Drafting and implementation of an audit survey regarding the application of confidentiality rules within the Group.
+#### _Legal Internship • June 2016 – December 2016_
+Internship within the Intellectual Property Department of Airbus Helicopters.  
+Drafted and reviewed confidentiality and IP clauses in both English and French.  
+Conducted an internal audit on confidentiality practices across departments.  
+Participated in contract drafting and negotiation with various public and private stakeholders.  
 
-Active participation during the negotiation and drafting of contracts with different type of counter-parties (private/public).
 
-### Bnp Paribas
-#### _Student job • August 2015 - September 2015_
-Student job within BNP Paribas' compliance team : controls related to account opening in the PACA region (direct contact with the local team in case of anomalies or need of further controls).
+### BNP Paribas
+#### _Student Job • August 2015 – September 2015_
+Student position within the Compliance Department at BNP Paribas (PACA headquarters).  
+Verification of account openings across the region and liaison with sales teams regarding procedural non-compliance.  
 
-### Scp Vidaparm - Pellier - Arnaud & Mouren
-#### _Operational internship • July 2014 - August 2014_
-Operational internship under the direction of Me MOUREN (drafting of conclusions, briefing on on-going cases, drafing of legal letters).
+
+### SCP Vidaparm – Pellier – Arnaud & Mouren
+#### _Legal Internship • July 2014 – August 2014_
+Internship at the Vidaparm law firm under the supervision of Me Mireille Mouren (Bar of Marseille).  
+Drafting of pleadings, case summaries, legal correspondence, and participation in hearings and client meetings.  
+
 
 ### Financo
-#### _Emploi Étudiant • Juillet 2012 - Août 2012_
-Student job within Financo, a subsidiairy from the French Groupe Arkea, in charge of the consumer credit offer.
+#### _Student Job • July 2012 – August 2012_
+Student position within the Debt Recovery Department at Financo (head office).  
+Reviewed over-indebtedness cases, liaised with clients, and prepared case files in coordination with the legal team and external counsel.  
 
 ----------------------------
+
 <a id="Formation"></a>
-## <i class="fas fa-university"></i> Formation
+## <i class="fas fa-university"></i> Education
 
-### Ministère de la Justice du Grand-Duché de Luxembourg
-#### _Cours Complémentaires de Droit Luxembourgeois • 2018-2019_
-Study in Luxemburgish Law :
-- Financial Law
-- Introduction to Luxemburgish investment vehicles
-- Institutions and Sources of Luxemburgish Law
-- Signification and Execution of judiciary rulling
-- Commercial Law
-- Study of the Civil Liability
-- Labour Law
-- Fundamentals of the Legal professions
-- Administrative Procedure
+### Ministry of Justice of the Grand Duchy of Luxembourg
+#### _Complementary Courses in Luxembourg Law • 2018–2019_
+Training in Luxembourg Law:
+- Financial Sector Legislation  
+- Introduction to Luxembourg Investment Vehicles  
+- Institutions and Sources of Luxembourg Law  
+- Procedures for Service and Enforcement of Judgments  
+- Commercial Law  
+- Civil Liability Law  
+- Labour Law  
+- Legal Professions and Fundamental Principles  
+- Administrative Procedure  
 
+### University of Versailles Saint-Quentin-en-Yvelines
+#### _Institute of Judicial Studies • 2016–2017_
+Preparation for the French Bar Examination.  
 
-### Université de Versailles Saint Quentin en Yvelines
-#### _Institut d'Etudes Judiciaires • 2016-2017_
-Preparation for the french Bar entry exam.
+#### _Master’s Degree (LL.M.) in Intellectual Property and Digital Business Law • 2015–2016_
+Part of the Saclay Master’s programs in IP, Digital Law, International and European Law.  
+Focused on the legal challenges of digitalization and dematerialization.  
+Thesis: [Streaming Platforms – Qualification and Applicable Liability Regimes](https://axeldiner.github.io/axeldiner/Mémoire M2.pdf), supervised by Me Ronan Hardouin.  
 
-#### _Master 2 Intellectual Property and IT Law • 2015-2016_
-End of study dissertation [Accountability and applicable regime for streaming website](https://axeldiner.github.io/axeldiner/Mémoire M2.pdf) under the direction of Me Ronan Hardouin.
+### Aix-Marseille University
+#### _Master 1 in Private Law and Criminal Sciences • 2014–2015_
+Studies in core areas of private law and criminal sciences, including property law, private international law, business criminal law, and consumer law.  
+Research paper: [Electronic Contracts and Conflict of Laws Rules](https://axeldiner.github.io/axeldiner/Rapport.pdf), supervised by Prof. Barrière-Brousse.  
 
-### Aix-Marseille Université
-#### _Master 1 Private Law and Criminal Study • 2014-2015_
-End of study dissertation [Electronics contracts and international conflicts of law](https://axeldiner.github.io/axeldiner/Rapport.pdf) under the direction of Professor Barrière-Brousse.
-
-### Sheffield University : School of Law
-#### _Law Degree Year 3 - Erasmus • 2013-2014_
-Third Year of Law degree carried out within the University of Sheffield (UK) as an Erasmus student.
-Study of fundamentals in Common Law and International Law.
-Courses and exams in English.
+### University of Sheffield – School of Law
+#### _Bachelor’s Degree – Erasmus Exchange • 2013–2014_
+Third year of Law degree completed at the University of Sheffield (UK) as part of the Erasmus program.  
+Studied core areas of common law and international law.  
+Courses and examinations conducted in English.  
 
 -----------------------------------
 
 <a id="Compétences"></a>
 ## <i class="fas fa-book"></i> Skills
-- _Intellectual Property & IT Law_
 
-  - Data Protection and Human rights
-  - Labour Law and New Technologies
-  - Special contracts in IP and IT
-  - Cybercriminality
-  - Intellectual Property
-  - Dematerialized cash flow
-  - Liability of internet intermediaries
-  - Business Contract in a digital space (B2B)
+- _Information Technology & Intellectual Property Law_  
+  - Data protection and fundamental rights  
+  - Employment and technology law  
+  - IT and IP contracts  
+  - Cybercrime  
+  - Intellectual property and digital law  
+  - Electronic financial transactions  
+  - Liability of online intermediaries  
+  - B2B digital business contracts  
 
+- _Business Law_  
+  - Consumer law  
+  - Corporate criminal law  
+  - Competition and innovation law  
+  - Insolvency and restructuring  
+  - International and European IP law  
+  - Commercial law  
 
-- _Corporate Law_
+- _General Law_  
+  - Private international law  
+  - Succession law  
+  - International criminal law  
+  - Property law  
 
-  - Consumer Protection
-  - Criminal Law
-  - Competion and Innovation Law
-  - Bankruptcy Law
-  - International and European IP Law
-  - Commercial Law
-
-
-- _Private Law_
-
-  - Private international Law
-  - Law on successions
-  - Criminal international Law
-  - Property Law
-
-
-- _Financial Law_
-
-  - Law on Payment Instruments
-  - Financial Law
-  - Introduction to Luxemburgish investment vehicles
+- _Banking Law_  
+  - Payment instruments  
+  - Financial sector legislation  
+  - Luxembourg investment vehicles  
 
 -----------------------------------------------
 
 <a id="Certifications"></a>
-## <i class="fas fa-certificate"></i> Certificates
-- Cours Complémentaires de Droit Luxembourgeois
-- Master 2 : Intellectual Property and IT Law
-- Master 1 : Private and Criminal Law
-- Degree : Law
-- TOEIC (945/990pts)
-- Diplôme C2i (level B2)  
-  - Microsoft Office (Word, Excel, VBA, Powerpoint)
-  - Webdesign basic knowledge (HTML & CSS)  
-- Driving Licence
+## <i class="fas fa-certificate"></i> Certifications
+
+- Complementary Courses in Luxembourg Law  
+- Master’s Degree: Intellectual Property and Digital Business Law  
+- Master 1: Private Law and Criminal Sciences  
+- Bachelor’s Degree in Law  
+- TOEIC (945/990)  
+- C2i Certificate (Level B2)  
+  - Proficiency in Office Suite (Word, Excel, VBA, PowerPoint)  
+  - Basic knowledge of web design (HTML and CSS)  
+- Driving License (Category B)  
 
 ---------------------------------------------------
 
 <a id="Langues"></a>
-##  <i class="fab fa-font-awesome-flag"></i> Language
-🇫🇷 French - Level C2 (Native speaker)  
-🇬🇧 Engligh - Level C1 (TOEIC 2013)  
-🇪🇸 Spanish - Level B2  
-🇩🇪 German - Level A1  
-🇱🇺 Luxembourgish - Level A1
+## <i class="fab fa-font-awesome-flag"></i> Languages
+🇫🇷 French – C2 (Native)  
+🇬🇧 English – C1 (TOEIC 2013)  
+🇪🇸 Spanish – B2  
+🇩🇪 German – A1  
+🇱🇺 Luxembourgish – A1  
