@@ -4,7 +4,7 @@ description: [A short description of your site's purpose]
 t:
   fr:
     Intro: >
-      Juriste de formation, passionné par la gouvernance d’entreprise et la conformité, j’exerce aujourd’hui en tant que <strong>Manager – Governance Services</strong> chez Arendt Investor Services S.A.  
+      Juriste de formation, passionné par la gouvernance d’entreprise et la conformité, j’exerce aujourd’hui en tant que <strong>Manager - Governance Services</strong> chez Arendt Investor Services S.A.  
       J’accompagne des structures d’investissement et des entités réglementées dans la mise en place de cadres de gouvernance efficaces et conformes aux exigences réglementaires.  
       Parcourez cette page pour découvrir mon parcours et mes domaines d’expertise.
     CV:
@@ -21,9 +21,10 @@ t:
     Langues:
       "Langues"
   en:
-    Intro:
-      "Jurist in Intellectual Property and IT Law, I am currently working as a Corporate & Governance Officer at Société Générale Luxembourg.
-If you want to learn more about my formation and my activities please take a look at this page."
+    Intro: >
+      Trained in law and passionate about corporate governance and compliance, I currently work as <strong>Manager - Governance Services</strong> at Arendt Investor Services S.A.  
+      I support investment structures and regulated entities in implementing effective governance frameworks that meet regulatory requirements.  
+      Browse this page to learn more about my background and areas of expertise.
     CV:
       name: "Download Resume as a PDF file"
       url: "/CVen.pdf"
