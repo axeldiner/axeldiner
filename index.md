@@ -6,159 +6,173 @@ lang: fr
 ## <i class="far fa-building"></i> Emplois
 
 ### Arendt Investor Services S.A.
-#### _Manager - Governance Services • Depuis Août 2021_
-Direction d’équipe et gestion de portefeuille  
-- Encadrement d’une équipe de cinq professionnels en charge d’un portefeuille d’entités réglementées et de fonds d’investissement non réglementés (OPCVM & FIA).  
-- Définition de la stratégie et supervision des opérations, en veillant à une conformité totale avec les cadres réglementaires applicables.  
-- Garantie d’un service de haute qualité pour une clientèle diversifiée.  
+#### _Manager – Governance Services • Depuis août 2021_
 
-Gouvernance d’entreprise et conseil  
+**Direction d’équipe et gestion de portefeuille**  
+- Encadrement d’une équipe de cinq professionnels pour un portefeuille d’entités réglementées et de fonds d’investissement non réglementés (OPCVM & FIA).  
+- Définition de la stratégie et supervision des opérations, en assurant une conformité totale avec les cadres réglementaires.  
+- Garantie de services de haute qualité pour une clientèle diversifiée.  
+
+**Gouvernance d’entreprise et conseil**  
 - Supervision complète de la gouvernance et de la conformité réglementaire des entités du portefeuille.  
-- Détention de mandats au sein d’entités appartenant à différents groupes, renforçant l’expertise en gouvernance et offrant une compréhension directe des enjeux sectoriels.  
-- Animation et coordination de réunions de conseil complexes, dans le respect des meilleures pratiques de gouvernance.  
-- Rédaction et révision précises des procès-verbaux de conseil, assurant la solidité des archives et la traçabilité des décisions.  
-- Suivi des évolutions réglementaires et conseil proactif auprès des clients en matière de gouvernance, de gestion des risques et de conformité.  
+- Détention de mandats au sein de plusieurs groupes, renforçant l’expertise en gouvernance et offrant une compréhension directe des enjeux sectoriels.  
+- Animation et coordination de réunions de conseil complexes, selon les meilleures pratiques de gouvernance.  
+- Rédaction et révision précises des procès-verbaux, assurant la solidité des archives et la traçabilité des décisions.  
+- Suivi des évolutions réglementaires et conseil proactif sur la gouvernance, la gestion des risques et la conformité.  
 
-Formation et partage des connaissances  
-- Conception et animation de programmes de formation sur mesure portant sur la gouvernance d’entreprise et les cadres réglementaires.  
-- Promotion du développement professionnel continu au sein d’Arendt Investor Services, garantissant le maintien des connaissances réglementaires à jour.  
+**Formation et partage des connaissances**  
+- Conception et animation de programmes de formation sur la gouvernance d’entreprise et les cadres réglementaires.  
+- Promotion du développement professionnel continu au sein d’Arendt Investor Services.  
 
-Développement commercial et marketing des services  
-- Analyse des besoins clients et des tendances du marché pour concevoir des services innovants en phase avec les évolutions réglementaires.  
-- Collaboration étroite avec les clients pour identifier leurs défis et proposer des solutions de gouvernance et de conformité adaptées.  
-- Coopération avec les équipes internes pour promouvoir et développer les services, contribuant ainsi à la croissance et au positionnement concurrentiel du cabinet.  
+**Développement commercial et marketing des services**  
+- Analyse des besoins clients et des tendances du marché pour développer des services innovants.  
+- Collaboration avec les clients pour identifier leurs défis et proposer des solutions sur mesure.  
+- Travail avec les équipes internes pour promouvoir et développer les services, contribuant à la croissance et au positionnement du cabinet.  
 
 
 ### Société Générale Luxembourg
-#### _Corporate & Governance officer • Janvier 2018 - Juillet 2021_
-Point de contact principal avec les régulateurs (BCE, CSSF) et coordination des échanges institutionnels.  
-Supervision et harmonisation des contrats intra-groupe en lien avec les départements métiers, financiers et fiscaux.  
-Gestion du socle normatif : suivi, mise à jour et sensibilisation des équipes aux exigences internes et réglementaires.  
-Animation de la vie sociale et gouvernance des filiales : gestion des pouvoirs, secrétariats de comités et suivi des mandats sociaux.  
-Contribution au développement de la supervision consolidée au niveau du groupe.
+#### _Corporate & Governance Officer • Janvier 2018 – Juillet 2021_
+
+**Relations avec les régulateurs et coordination institutionnelle**  
+- Point de contact principal avec la BCE et la CSSF.  
+
+**Gestion contractuelle intra-groupe**  
+- Supervision et harmonisation des contrats en collaboration avec les départements métiers, finance et fiscalité.  
+
+**Gestion du socle normatif et formation**  
+- Suivi, mise à jour et sensibilisation des équipes aux exigences internes et réglementaires.  
+
+**Vie sociale et gouvernance des filiales**  
+- Gestion des pouvoirs et délégations de signature, secrétariat des comités et suivi des mandats sociaux.  
+- Contribution au développement de la supervision consolidée au niveau du groupe.  
+
 
 ### Fidal
-#### _Stage opérationnel • Avril 2017 - Juillet 2017_
-Stage opérationnel au sein du service règlement des contentieux, sous la direction de Me Saoudi. Recherche en matière de droit des sociétés, droit des contrats, droit des affaires. Rédaction d'assignations et de conclusions pour les contentieux en cours.
+#### _Stage opérationnel • Avril 2017 – Juillet 2017_  
+Stage au sein du service règlement des contentieux sous la direction de Me Saoudi.  
+- Recherche en droit des sociétés, droit des contrats et droit des affaires.  
+- Rédaction d’assignations et de conclusions pour les contentieux en cours.  
+
 
 ### Lesbros Avocats
-#### _Stage opérationnel • Février 2017 - Avril 2017_
-Stage opérationnel au sein du cabinet de Me LESBROS, spécialisé en droit de la propriété intellectuelle et en droit des affaires numériques.
-Rédaction de contrats de prestations informatiques et de partenariat. Dépôt de marques européennes, déclarations auprès de la CNIL de traitements de données personnelles. Recherche et veille juridique. Rédaction de consultations pour les différentes sociétés clientes du cabinet. Rédaction [d'articles d'actualité et d'analyse](http://www.lesbros-avocats.com/donnees-personnelles-ce-qui-change-avec-la-loi-pour-une-republique-numerique/) pour le site internet du cabinet.
+#### _Stage opérationnel • Février 2017 – Avril 2017_  
+Stage au sein du cabinet spécialisé en propriété intellectuelle et droit des affaires numériques.  
+- Rédaction de contrats de prestations informatiques et de partenariats.  
+- Dépôt de marques européennes et déclarations CNIL.  
+- Rédaction de consultations et d’articles d’actualité pour le site du cabinet.  
+
 
 ### Airbus Helicopters
-#### _Stage opérationnel • Juin 2016 - Décembre 2016_
-Stage opérationnel au sein du service propriété intellectuelle d'Airbus Helicopters : Étude, classement et rédaction de clauses de confidentialité et de propriété intellectuelle en anglais et en français. Rédaction et mise en place d’un audit visant à vérifier l’application des règles de confidentialité au sein des différents services du groupe. Participation à la négociation et la rédaction de différents types de contrats avec différents types d’acteurs (privé/public).
+#### _Stage opérationnel • Juin 2016 – Décembre 2016_  
+Stage au sein du service propriété intellectuelle.  
+- Rédaction et classement de clauses de confidentialité et de propriété intellectuelle (français et anglais).  
+- Audit interne sur l’application des règles de confidentialité.  
+- Participation à la négociation et rédaction de différents contrats.  
 
-### Bnp Paribas
-#### _Emploi étudiant • Août 2015 - Septembre 2015_
-Emploi étudiant au sein du pôle conformité du siège social PACA de la BNP Paribas : mission de contrôle des différentes ouvertures de compte effectuées en région PACA, accompagnée d'une prise de contact avec les commerciaux en cas de manquement aux règles de procédure.
 
-### Scp Vidaparm - Pellier - Arnaud & Mouren
-#### _Stage opérationnel • Juillet 2014 - Août 2014_
-Stage opérationnel au sein du cabinet d'avocat VIDAPARM sous la direction de Me Mouren Mireille, avocate au barreau de Marseille (rédaction de projet de conclusion, résumé de dossier pour présentation, rédaction de correspondance, recherche et veille juridique, présence lors d’audiences, rencontre avec clients).
+### BNP Paribas
+#### _Emploi étudiant • Août 2015 – Septembre 2015_  
+Mission de contrôle des ouvertures de compte au sein du pôle conformité PACA et liaison avec les commerciaux.  
+
+
+### SCP Vidaparm – Pellier – Arnaud & Mouren
+#### _Stage opérationnel • Juillet 2014 – Août 2014_  
+Rédaction de conclusions, résumés de dossiers et correspondances.  
+Participation aux audiences et rencontres avec les clients.  
+
 
 ### Financo
-#### _Emploi Étudiant • Juillet 2012 - Août 2012_
-Emploi étudiant au sein du pôle recouvrement/contentieux du siège social de la société de crédit Financo : mission de contrôle des dossiers de sur-endettement, prise de contact avec les clients, recherche de solutions et éventuellement création d'un dossier, avant ouverture d'une procédure, en partenariat avec le pôle juridique et les avocats partenaires.
+#### _Emploi étudiant • Juillet 2012 – Août 2012_  
+Mission de contrôle des dossiers de sur-endettement et coordination avec l’équipe juridique pour la préparation des procédures.  
 
 ----------------------------
+
 <a id="Formation"></a>
 ## <i class="fas fa-university"></i> Formation
 
 ### Ministère de la Justice du Grand-Duché de Luxembourg
 #### _Cours Complémentaires de Droit Luxembourgeois • 2018-2019_
-Formation en Droit Luxembourgeois :
-- Législation sur le Secteur Financier
-- Introduction à la matière des véhicules d'investissement luxembourgeois
-- Institutions et Sources du Droit Luxembourgeois
-- Procédure de Signification et d'Exécution des jugements
-- Éléments de Droit Commercial
-- Éléments de Responsabilité Civile
-- Droit du Travail
-- Statut et principes fondamentaux des professions du Droit
-- Procédure Administrative
+- Législation sur le secteur financier  
+- Introduction aux véhicules d’investissement luxembourgeois  
+- Institutions et sources du droit luxembourgeois  
+- Procédure de signification et exécution des jugements  
+- Droit commercial, droit civil, droit du travail  
+- Statut et principes fondamentaux des professions du droit  
+- Procédure administrative  
 
 
-### Université de Versailles Saint Quentin en Yvelines
-#### _Institut d'Etudes Judiciaires • 2016-2017_
-Préparation au concours du barreau.
+### Université de Versailles Saint-Quentin-en-Yvelines
+#### _Institut d’Etudes Judiciaires • 2016-2017_  
+Préparation au concours du barreau.  
 
-#### _Master 2 Propriété Intellectuelle et Droit des Affaires Numériques • 2015-2016_
-Le master 2 Propriété Intellectuelle et Droit des Affaires Numériques s'inscrit dans l'offre des masters de Saclay en Propriété Intellectuelle, Droit du Numérique, Droit International et Droit européen. Sa spécificité tient à une approche généraliste et transversale du droit confronté aux défis de la dématérialisation et du numérique.
-Rédaction d'un mémoire [Les plateformes de streaming, qualification et régime de responsabilité applicables](https://axeldiner.github.io/axeldiner/Mémoire M2.pdf) sous la direction de Me Ronan Hardouin.
+#### _Master 2 Propriété Intellectuelle et Droit des Affaires Numériques • 2015-2016_  
+- Approche transversale du droit confronté aux enjeux du numérique et de la dématérialisation  
+- Mémoire : [Les plateformes de streaming – qualification et régime de responsabilité](https://axeldiner.github.io/axeldiner/Mémoire%20M2.pdf)  
 
 ### Aix-Marseille Université
-#### _Master 1 Droit Privé et Sciences Criminelles • 2014-2015_
-Étude des matières fondamentales de droit privé et de sciences criminelles telles que le droit patrimonial, le droit international privé, le droit pénal spécial, le droit pénal des affaires, mais aussi des matières plus spécifiques telles que le droit des instruments de paiement ou le droit de la consommation.
-Rédaction d'un rapport de recherche [Les contrats électroniques et les règles de conflits de loi](https://axeldiner.github.io/axeldiner/Rapport.pdf) sous la direction du Professeur Barrière-Brousse.
+#### _Master 1 Droit Privé et Sciences Criminelles • 2014-2015_  
+- Études fondamentales et matières spécifiques en droit privé et sciences criminelles  
+- Rapport de recherche : [Les contrats électroniques et conflits de loi](https://axeldiner.github.io/axeldiner/Rapport.pdf)  
 
-### Sheffield University : School of Law
-#### _Licence 3 - Erasmus • 2013-2014_
-Troisème année de Licence de Droit effectuée au sein de l'Université de Sheffield (Royaume-Uni) dans le cadre du programme Erasmus.
-Étude des matières fondamentales du droit de common law et de droit international.
-Cours et examens en Anglais.
+### Sheffield University – School of Law
+#### _Licence 3 – Erasmus • 2013-2014_  
+- Études en common law et droit international, cours en anglais  
 
 -----------------------------------
 
 <a id="Compétences"></a>
 ## <i class="fas fa-book"></i> Compétences
-- _Droit des nouvelles technologies et Propriété Intellectuelle_
 
-  - Libertés fondamentales et droit des données personnelles
-  - Droit du travail et Nouvelles technologies
-  - Contrats spéciaux des NTIC et de la PI
-  - Cybercriminalité
-  - Propriété Intellectuelle et NTIC
-  - Flux financiers dématérialisés
-  - Responsabilité des intermédiaires techniques
-  - Contrats d’affaires dans l’univers digital (B2B)
+- **Droit des nouvelles technologies et Propriété Intellectuelle**  
+  - Libertés fondamentales et données personnelles  
+  - Droit du travail et NTIC  
+  - Contrats IT et PI  
+  - Cybercriminalité  
+  - Propriété intellectuelle et digital  
+  - Flux financiers dématérialisés  
+  - Responsabilité des intermédiaires techniques  
+  - Contrats d’affaires B2B dans le digital  
 
+- **Droit des Affaires**  
+  - Droit de la consommation  
+  - Droit pénal des affaires  
+  - Droit de la concurrence et innovation  
+  - Entreprises en difficulté  
+  - Droit international et européen de la PI  
+  - Droit commercial  
 
-- _Droit des Affaires_
+- **Droit Général**  
+  - Droit international privé  
+  - Droit des successions  
+  - Droit pénal international  
+  - Droit patrimonial  
 
-  - Droit de la consommation
-  - Droit pénal spécial
-  - Droit de la concurrence et innovation
-  - Droit des entreprises en difficulté
-  - International and European IP Law
-  - Droit commercial
-
-
-- _Droit Général_
-
-  - Droit international Privé
-  - Droit des successions
-  - Droit pénal international
-  - Droit patrimonial
-
-
-- _Droit Bancaire_
-
-  - Droit des instruments de paiement
-  - Législation sur le Secteur Financier
-  - Introduction à la matière des véhicules d'investissement luxembourgeois
+- **Droit Bancaire**  
+  - Instruments de paiement  
+  - Législation sur le secteur financier  
+  - Introduction aux véhicules d’investissement luxembourgeois  
 
 -----------------------------------------------
 
 <a id="Certifications"></a>
 ## <i class="fas fa-certificate"></i> Certifications
-- Cours Complémentaires de Droit Luxembourgeois
-- Master 2 : Propriété Intellectuelle et Droit des affaires Numériques
-- Master 1 : Droit Privé et Sciences Criminelles
-- Licence : Droit
-- TOEIC (945/990pts)
+
+- Cours Complémentaires de Droit Luxembourgeois  
+- Master 2 : Propriété Intellectuelle et Droit des Affaires Numériques  
+- Master 1 : Droit Privé et Sciences Criminelles  
+- Licence : Droit  
+- TOEIC (945/990)  
 - Diplôme C2i (niveau B2)  
-  - Maîtrise suite office (Word, Excel, VBA, Powerpoint)
-  - Connaissances basiques web-design (HTML et CSS)  
-- Permis de conduire B
+  - Maîtrise de la suite Office (Word, Excel, VBA, PowerPoint)  
+  - Connaissances basiques en web-design (HTML/CSS)  
+- Permis de conduire B  
 
 ---------------------------------------------------
 
 <a id="Langues"></a>
-##  <i class="fab fa-font-awesome-flag"></i> Langues
-🇫🇷 Français - Niveau C2 (Langue maternelle)  
-🇬🇧 Anglais - Niveau C1 (TOEIC 2013)  
-🇪🇸 Espagnol - Niveau B2  
-🇩🇪 Allemand - Niveau A1  
-🇱🇺 Luxembourgeois - Niveau A1
+## <i class="fab fa-font-awesome-flag"></i> Langues
+🇫🇷 Français – C2 (Langue maternelle)  
+🇬🇧 Anglais – C1 (TOEIC 2013)  
+🇪🇸 Espagnol – B2  
+🇩🇪 Allemand – A1  
+🇱🇺 Luxembourgeois – A1
