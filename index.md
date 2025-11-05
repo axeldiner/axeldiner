@@ -5,31 +5,37 @@ lang: fr
 <a id="Emplois"></a>
 ## <i class="far fa-building"></i> Emplois
 
+### Arendt Investor Services S.A.
+#### _Manager - Governance Services • Depuis Août 2021_
+Direction d’équipe et gestion de portefeuille  
+- Encadrement d’une équipe de cinq professionnels en charge d’un portefeuille d’entités réglementées et de fonds d’investissement non réglementés (OPCVM & FIA).  
+- Définition de la stratégie et supervision des opérations, en veillant à une conformité totale avec les cadres réglementaires applicables.  
+- Garantie d’un service de haute qualité pour une clientèle diversifiée.  
+
+Gouvernance d’entreprise et conseil  
+- Supervision complète de la gouvernance et de la conformité réglementaire des entités du portefeuille.  
+- Détention de mandats au sein d’entités appartenant à différents groupes, renforçant l’expertise en gouvernance et offrant une compréhension directe des enjeux sectoriels.  
+- Animation et coordination de réunions de conseil complexes, dans le respect des meilleures pratiques de gouvernance.  
+- Rédaction et révision précises des procès-verbaux de conseil, assurant la solidité des archives et la traçabilité des décisions.  
+- Suivi des évolutions réglementaires et conseil proactif auprès des clients en matière de gouvernance, de gestion des risques et de conformité.  
+
+Formation et partage des connaissances  
+- Conception et animation de programmes de formation sur mesure portant sur la gouvernance d’entreprise et les cadres réglementaires.  
+- Promotion du développement professionnel continu au sein d’Arendt Investor Services, garantissant le maintien des connaissances réglementaires à jour.  
+
+Développement commercial et marketing des services  
+- Analyse des besoins clients et des tendances du marché pour concevoir des services innovants en phase avec les évolutions réglementaires.  
+- Collaboration étroite avec les clients pour identifier leurs défis et proposer des solutions de gouvernance et de conformité adaptées.  
+- Coopération avec les équipes internes pour promouvoir et développer les services, contribuant ainsi à la croissance et au positionnement concurrentiel du cabinet.  
+
+
 ### Société Générale Luxembourg
-#### _Corporate & Governance officer • Depuis Janvier 2018_
-Relation régulateur (BCE/CSSF) :
-- Centralisation des échanges avec le régulateur
-- Organisation des visites du site
-
-Mise en place et suivi des contrats intra-groupe :
-- Rédaction d'un descriptif de prestation avec les métiers
-- Contrôle, en collaboration avec la finance et la fiscalité, des contrats groupe
-- Gestion notariale du socle contractuel (conservation, communication et mise-à-jour)
-- Suivi des comités de gouvernance (contrôle des prestations effectuées et de la satisfaction des entités clientes)
-
-Gestion et mise-à-jour du socle normatif :
-- Animation de réunions de sensibilisation avec les chefs de service
-- Analyse des différents documents normatifs
-- Gestion et support de l'outil interne de stockage
-- Planning des différentes phases de mise-à-jour à prévoir
-- Animation de réunions de formation du personnel
-
-Animation de la vie sociale et contrôle des filiales :
-- Gestion des pouvoirs et des délégations de signatures
-- Secrétariat des comités spécialisés de Société Générale Luxembourg
-- Gestion de la vie sociale de deux filiales
-- Développement de la supervision consolidée au niveau du Groupe
-- Contrôle des filiales et des participations (renouvellement des mandats et suivi des Assemblées Générales)
+#### _Corporate & Governance officer • Janvier 2018 - Juillet 2021_
+Point de contact principal avec les régulateurs (BCE, CSSF) et coordination des échanges institutionnels.  
+Supervision et harmonisation des contrats intra-groupe en lien avec les départements métiers, financiers et fiscaux.  
+Gestion du socle normatif : suivi, mise à jour et sensibilisation des équipes aux exigences internes et réglementaires.  
+Animation de la vie sociale et gouvernance des filiales : gestion des pouvoirs, secrétariats de comités et suivi des mandats sociaux.  
+Contribution au développement de la supervision consolidée au niveau du groupe.
 
 ### Fidal
 #### _Stage opérationnel • Avril 2017 - Juillet 2017_
